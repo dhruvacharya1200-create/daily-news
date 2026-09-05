@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Bulletin — आज की ख़बर</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #EDE6D6;
+    --card: #F7F3E9;
+    --ink: #201C16;
+    --muted: #6B6255;
+    --accent: #7A1F2B;
+    --hairline: #C9BFA8;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: inherit; }
+
+  .wrap {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+  }
+
+  /* Masthead */
+  header.masthead {
+    padding: 40px 24px 0;
+    text-align: center;
+  }
+
+  .masthead-inner {
+    max-width: 980px;
+    margin: 0 auto;
+  }
+
+  .kicker {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+    font-size: 15px;
+    color: var(--accent);
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  h1.title {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    font-size: clamp(40px, 7vw, 68px);
+    margin: 6px 0 10px;
+    letter-spacing: -0.01em;
+  }
+
+  .subline {
+    font-size: 15px;
+    color: var(--muted);
+    margin-bottom: 22px;
+  }
+
+  .rule {
+    border: none;
+    border-top: 3px solid var(--ink);
+    margin: 0;
+  }
+
+  .rule-thin {
+    border: none;
+    border-top: 1px solid var(--hairline);
+  }
+
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 10px 0;
+    font-size: 13px;
+    color: var(--muted);
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .meta-row .edition { font-weight: 600; color: var(--ink); }
+
+  #status {
+    font-style: italic;
+  }
+
+  /* Section nav */
+  nav.sections {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+    padding: 18px 0 8px;
+  }
+
+  nav.sections button {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    background: none;
+    border: 1px solid var(--hairline);
+    color: var(--muted);
+    padding: 7px 16px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  nav.sections button:hover {
+    border-color: var(--accent);
+    color: var(--ink);
+  }
+
+  nav.sections button.active {
+    background: var(--ink);
+    border-color: var(--ink);
+    color: var(--paper);
+  }
+
+  /* Sections */
+  section.block {
+    margin-top: 34px;
+  }
+
+  h2.section-title {
+    font-family: 'Lora', serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 26px;
+    margin: 0 0 4px;
+  }
+
+  .story {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .story:first-of-type {
+    padding-top: 16px;
+  }
+
+  .story a.headline {
+    font-family: 'Lora', serif;
+    font-size: 19px;
+    line-height: 1.4;
+    text-decoration: none;
+    color: var(--ink);
+  }
+
+  .story a.headline:hover {
+    color: var(--accent);
+  }
+
+  .story .byline {
+    font-size: 12.5px;
+    color: var(--muted);
+    display: flex;
+    gap: 10px;
+  }
+
+  .story .byline .dot { color: var(--hairline); }
+
+  /* Empty state */
+  .empty {
+    padding: 30px 0;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  footer {
+    margin-top: 60px;
+    padding-top: 20px;
+    border-top: 1px solid var(--hairline);
+    font-size: 13px;
+    color: var(--muted);
+    text-align: center;
+    line-height: 1.7;
+  }
+
+  footer code {
+    background: var(--card);
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+
+  @media (max-width: 560px) {
+    header.masthead { padding-top: 28px; }
+    .meta-row { flex-direction: column; align-items: flex-start; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="kicker">रोज़ सुबह ९ बजे ताज़ा ख़बर</div>
+    <h1 class="title">Daily Bulletin</h1>
+    <div class="subline">Your morning read, refreshed automatically every day at 9:00 AM IST</div>
+  </div>
+</header>
+
+<div class="wrap">
+  <hr class="rule">
+  <div class="meta-row">
+    <span class="edition" id="edition">Edition —</span>
+    <span id="status">Loading today's stories…</span>
+  </div>
+  <hr class="rule-thin">
+
+  <nav class="sections" id="sectionNav"></nav>
+
+  <main id="content"></main>
+
+  <footer>
+    Powered by Google News RSS · headlines refresh automatically each morning<br>
+    Update schedule lives in <code>.github/workflows/update-news.yml</code> · data in <code>news.json</code>
+  </footer>
+</div>
+
+<script>
+  const contentEl = document.getElementById('content');
+  const navEl = document.getElementById('sectionNav');
+  const statusEl = document.getElementById('status');
+  const editionEl = document.getElementById('edition');
+
+  function timeAgo(pubDate) {
+    if (!pubDate) return '';
+    const then = new Date(pubDate).getTime();
+    if (isNaN(then)) return '';
+    const diffMin = Math.round((Date.now() - then) / 60000);
+    if (diffMin < 60) return diffMin + 'm ago';
+    const diffHr = Math.round(diffMin / 60);
+    if (diffHr < 24) return diffHr + 'h ago';
+    return Math.round(diffHr / 24) + 'd ago';
+  }
+
+  function renderSections(sections) {
+    contentEl.innerHTML = '';
+    navEl.innerHTML = '';
+
+    sections.forEach((sec, i) => {
+      const btn = document.createElement('button');
+      btn.textContent = sec.label;
+      if (i === 0) btn.classList.add('active');
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('nav.sections button').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        document.getElementById('sec-' + sec.key).scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+      navEl.appendChild(btn);
+
+      const block = document.createElement('section');
+      block.className = 'block';
+      block.id = 'sec-' + sec.key;
+
+      const h2 = document.createElement('h2');
+      h2.className = 'section-title';
+      h2.textContent = sec.label;
+      block.appendChild(h2);
+
+      if (!sec.items || sec.items.length === 0) {
+        const empty = document.createElement('div');
+        empty.className = 'empty';
+        empty.textContent = 'No stories fetched for this section yet.';
+        block.appendChild(empty);
+      } else {
+        sec.items.forEach(item => {
+          const story = document.createElement('div');
+          story.className = 'story';
+
+          const a = document.createElement('a');
+          a.className = 'headline';
+          a.href = item.link || '#';
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = item.title;
+          story.appendChild(a);
+
+          const byline = document.createElement('div');
+          byline.className = 'byline';
+          const src = document.createElement('span');
+          src.textContent = item.source || '';
+          byline.appendChild(src);
+          const ago = timeAgo(item.pubDate);
+          if (ago) {
+            const dot = document.createElement('span');
+            dot.className = 'dot';
+            dot.textContent = '·';
+            byline.appendChild(dot);
+            const time = document.createElement('span');
+            time.textContent = ago;
+            byline.appendChild(time);
+          }
+          story.appendChild(byline);
+          block.appendChild(story);
+        });
+      }
+
+      contentEl.appendChild(block);
+    });
+  }
+
+  async function load() {
+    try {
+      const res = await fetch('news.json?ts=' + Date.now());
+      const data = await res.json();
+
+      const updated = new Date(data.updatedAt);
+      const editionNumber = Math.floor(updated.getTime() / 86400000) - 20300; // arbitrary stable counter
+      editionEl.textContent = 'Edition No. ' + editionNumber;
+      statusEl.textContent = 'Updated ' + updated.toLocaleString('en-IN', {
+        day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit'
+      });
+
+      renderSections(data.sections || []);
+    } catch (err) {
+      statusEl.textContent = 'Could not load news.json — is it in the same folder as this page?';
+      console.error(err);
+    }
+  }
+
+  load();
+</script>
+
+</body>
+</html>

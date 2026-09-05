@@ -1,0 +1,40 @@
+{
+  "updatedAt": "2026-09-05T03:30:00.000Z",
+  "sections": [
+    {
+      "key": "india",
+      "label": "India",
+      "items": [
+        { "title": "Sample headline — replace by running fetch-news.mjs", "link": "#", "pubDate": "Sat, 05 Sep 2026 03:30:00 GMT", "source": "Daily Bulletin" }
+      ]
+    },
+    {
+      "key": "world",
+      "label": "World",
+      "items": [
+        { "title": "Sample headline — replace by running fetch-news.mjs", "link": "#", "pubDate": "Sat, 05 Sep 2026 03:30:00 GMT", "source": "Daily Bulletin" }
+      ]
+    },
+    {
+      "key": "business",
+      "label": "Business",
+      "items": [
+        { "title": "Sample headline — replace by running fetch-news.mjs", "link": "#", "pubDate": "Sat, 05 Sep 2026 03:30:00 GMT", "source": "Daily Bulletin" }
+      ]
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "items": [
+        { "title": "Sample headline — replace by running fetch-news.mjs", "link": "#", "pubDate": "Sat, 05 Sep 2026 03:30:00 GMT", "source": "Daily Bulletin" }
+      ]
+    },
+    {
+      "key": "sports",
+      "label": "Sports",
+      "items": [
+        { "title": "Sample headline — replace by running fetch-news.mjs", "link": "#", "pubDate": "Sat, 05 Sep 2026 03:30:00 GMT", "source": "Daily Bulletin" }
+      ]
+    }
+  ]
+}
