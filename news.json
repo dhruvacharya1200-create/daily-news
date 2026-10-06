@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-10-05T03:44:17.719Z",
+  "updatedAt": "2026-10-06T03:42:53.299Z",
   "sections": [
     {
       "key": "india",
       "label": "India",
       "items": [
         {
-          "title": "Mass protests demanding poll chief resignation shake India for third day - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJwd2dSZzU5TnpqWU1pVUY1MFlPZC1FTHZzWVhVaG5aWDJmSml6VXVWbkFGb3JrWUNmWlJfUFF5T2ZLTGtISWFNc19rRFRUQ2VNeHNGU0NlbmpsaHNPUEwzSGc2RFdiZE5kQmNOWXBGcl9PRGtPTlNqZ29GU0RTSDZnQzFLc3Fralk1OHR0VzQ1WTY3dTlZT0hDRmdsQ3RYMlNTanBTT0NuTUJnSW9CNGszd9IBuAFBVV95cUxNRWRzR0ROUEVoYzlqOUlOaUptMG93QzVTQW9nbTFjbFI3eGIwNl9pNEhjUG0ta253YVc1MUpHRDIzWmhNQmhvOUREbFZHcUJtem96am5SaDg1OU4xR3hVaklZeU1vOW1wX29USUNySkMyeDFMcDFWaWF4blpwUTlaUVNreGhWZ1hlbXRGVUVqVnNGLUYtZXg0RDFjYTZ6VXIzUDE2dTEtWDdGVGxhcHZCaGd6bkxiS3Fv?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:58:37 GMT",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Process disenfranchising millions, turning them to second class citizens is arbitrary, says Justice Bhuyan - The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNWXd0aVlaZHp5ZkFRcGJDWEplY2NIRWRWWHJRR0RIWWxndzAyMDlFY09VTVRrQy1mbEZhYUpLX3p5M2NLUFBZRWxpTGpGcHRlVEgxbXk5QlJMWnFBczlGQWJvVUNCUjBXbEpjc1VZREYxbVdkVEM1LTM1TzFrZnQ1OVB2U1F0MDdhMTFtZi1JZjhRNVFuUThBU3pCejlFR21sVkdTWlllNTZXNDQtd3ZlV0cwbjcxeTY1X0hrbkM5ejlJRWZuX0IyMU5XQ21FUS1RbWh2YlYzeERaNmE0SVg0M2VQMGhhaUlOY3lTNFJZOXg3bWMzclHSAfwBQVVfeXFMTl9UWXZrcWZVWlc0cTNnU05aalVCY3B2NmY5T2ItTTk5cE4xeWdUUXRJeVI0YWZ1Q0I1QXlBeU9BX1RTZWFLQ1J5RGdyRjBQY3NZdTEyZWtBY01MVDhMQkVPbldRRDhDZFpSVWp5amVZR3dLRW9FeWtwYnAzSy1yNWFqY1VobFZ3ZklqUVg5dDctVUY5NEhvTEZROEcyZXR1UEFKT29Vanh5WjhnRFhPQm5DR0NGb1VUeFRQbFVvbjloSURzZEF1SDBuT2QzYm50M2JfbWhOendUT2tBM0tnUTFSWUZLLXl0cFJzUWJfSlpRLTFVcHphVWZhSklF?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 12:50:46 GMT",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Faster registration, easier refunds: Reform rollout with GST 2.0 - timesofindia.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTy1Ic0NoZVk2VHRuQmRtT09LTkZWRlJoQ045cXd2VzVNdm9Md0ExVW9aeVBFamIwNHlJSkdaRGJkSG5tMmIzQmUtTHE1Vnk2S2pZVnhGYmZyQndvQWExaERtc2JHV1RVZ3VyajZRYk9tYU1JbFgzUjdJNmQ2N0ZrOV90RmFDTVhFdDRiMnJiNV95VkhGMzZUOUx6ZlVQOWoyV3R4Z3M0dUxlT1owMExiUWt1ZHdrSUEzbGlyV1RzQ2k3U2VRNjlhaC1McjJuWlNnUGFHVUl1dG5vQVkyS0FkRnBB?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 20:25:00 GMT",
-          "source": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Scrap SIR, EVMs: Thackeray Cousins Lead Mumbai Protest Against Poll Body Chief - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNN3N5Q3Y0SEEtbXZhQjBMRHBWQ3d1TkFSZlNsNkhmclh1LXJvQXh4dkUteEV3akNwa2taTk5sQ3NFSm4xY0V1YTljVWUyV2JJdVJ3dnB1cC1BVHl6d0tDLUNQWVlQd0hUU3RrbTNQWHJXbW44ZU5NdHloVWFGVjRPUEExUmRmNkpuMnMwUUhHZHR4SmJRV1U1RWR1b21kSnQ2d3dPajM5cUs2Qjlpb19YSWt3RlhSTVFXTmtzdDE2RTlNd3JYMXJEOTRYSE56cEZRdWs5NjdnbHpwYVdJSjFvTXZVNk9rOUliQTZERk1JNXNLaWNEQXdhNtIBgAJBVV95cUxQNzhybzhpVFVSYkxndUdKbFNqNHBBUmRNZEZXc2Vab3NLV3NyT0lOM0lOSTZBRzZmUnUydE9fdjhSQnV2VjFPYjlCenNoOUtBeTk4cnc5QkRCdnVDSW96SXJFV0FMZVRuVkNiTFBOcGNRaFpCdzFSLXF1NmVIVzNFdF9uenh4OHJrU1VFY2paanJsWWQxT1JzNWFjUUVXVTcxQVBmdmxXVGpaai0zUlhwVi1Cb041LUVxbC1QTG1LcjdPNmlYXzIzLWRaR0VWcU5DUmVwNDRzYnJ6SzZ5clJBSXJYaElCcUtOLXRPN2xzenZtYjJVR3JsMDd4a0ticW5r?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 07:45:14 GMT",
+          "title": "Stage Set For 6 Bye-Elections, Test For BJP In Bengal, TVK In Tamil Nadu - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHZjNDJFRzJKeHlCaHhIVFppN1FiUGlVXzlZeExGMElYNkYzRWh1b1d2R0FCQXdqNTJIYmRjakV3ajRzODJUR19sczktT3JqOV91REllYzFseVZ5c3oxcW1uRk52bWJPUElENV9MYXhjbXpEQTFXVVBiLUtMUkZ3c1R6YlM3S0FSRUVRWkNzMXZIbkF2ZGtoVlBOWURkcUNZQ2NXTWx0Ml9WZ9IBsgFBVV95cUxPWVVaYzZaSUtfMDdUa1BFb0VnaHFPSmxFemlfZ1hBNUJwcENGS3ZVM0hxOW9qTFdsLVk1aVctYXVmejlDang5cWQ1N0REWHBkYi0tQlRaa1p2QzlidkROcGltdlBENjZMYXV4QUFfMW84eHhVbzNlT3h1OW04em55bW9NUl9KbngwbUE5aHhJTlVkRDFHUGpEMEtVbDFoTHZJYWtjbjF3elo2eEJYVXEwVkhn?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 01:13:29 GMT",
           "source": "NDTV"
         },
         {
-          "title": "Indian police accused of sexual harassment against journalists at protest - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vS2lXaUpqQXlka2VobFBfQjI5REVCQmx6RDJURHJ4dVdfR1lfaUxkRTJhVEdHVEsyNlJ3U1ZnOVNVNmplLVZYXzlGMzRwa3c0OTRmZlVKVlJzOEk?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:01:19 GMT",
-          "source": "BBC"
+          "title": "India’s supreme court demands answers over changes to voter roll - The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWM2cmhhbVZrandSVEwzRE5PWlcwTlQ1Z3ZEc1E5ZXREazFjS3JoRVBiNzVxeW1IbHhwcFllb082TGt4YUpQRk9HRnZrUm4wU0xleGtsZElZV25oOExyaFg2Nk11ZWt6cHA4bkZ6enRuUEVjQUR3eHZLREJFNlBhcjZfeWVGNkpVdEctQk9YNTJZdTUzNExxYVl6d0hSMldQZE9lcXI3cXFpeVlhUnJxNFZsbU1zQWh5Mmc?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 01:31:00 GMT",
+          "source": "The Guardian"
         },
         {
-          "title": "Radical repositioning of US, rise of China: Jaishankar on changing global order - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVDNWTkxLNHZoSnVkRTM3cHMyYVhwaHBFWGVWLWJ2YmE0bTJGRzZlQ2JBbng4cDRFYjZxUUJXamQ0VXlOanZLcmpuWEtfbEFkbWxacGgxUjNWOGctMjRZV2YzZE5xZ3QyZ1VkTjdwRDh6aGY0cFBjN1pyX3BqcWk0VjRRNS1PblQyZDFhR2tuRDRFUXg0VTdDZTl2Wmc3ZF9laDd6RS1ZQXMxemFoQkRtNUd0bC1TX0VrQWpHM0cyRVpIV2djNkcwOWtkZ9IB0AFBVV95cUxPVFZtUG52Q19ZMGUzUzZ1LVpxNjQ2cE50WUpWYWRtVklWNHh1cDRtUi0zYm9KNEpwZTJnUjRtb2xsWEhfRmpYSmJhTldIWmZaeVBsMjRhZlhwUkYxVlB2a1BBaER0Q0UwcFRiVmIxcmUxM2M5bXVPUGU4OXEzYzZhMGtfR3QtOUFvdDRTSTd5VVNUVjZxVURZX1MwbS1tMzN5UDFOSFVzcTZUV3VvM2w0MWJQWlk3SldQMnlFNC03dk1tMVlsMmRwZjJvZzJveHZ0?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:35:25 GMT",
-          "source": "Moneycontrol.com"
+          "title": "India, Switzerland eye deeper ties in trade, investment, tech - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkdCcmFBSFAzbmNxay1OZk5URVpwT1drRzhJWi1Uem9aRzZjbnI3eGstRlNtcTBPTTdzSVc3T2xPYmUyZ0o4R0k1eEprRnVzWlVGRVp0dkl1YUdGZDhuTzhIWkhiN3BDakZ1NDFiQ0MwRklibXU5TFI1U0NybHNLLS1nQTdMY0N1T1hBZWJJdUx2bUo0ZUJFOGw5cGt0bVl5RGNDWFJEaG9IUFhWNXNPbF9keEVGSGxOVUFYdkRienlaRGxq?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 21:12:00 GMT",
+          "source": "The Times of India"
         },
         {
-          "title": "Yediyurappa warns statewide protest in Karnataka against FIR on BJP workers - Deccan Herald",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkNSZFg5aTRFR0RJV05BZ1c3WFd4THI2Y01ZczZUUm1OcUxXNXpySktHUTJidmRsakNmd05FMFIxZ2M5ekJneFBId005eGZrRlY0ZjV0UnUzRmw2WUJ3c1hCQkZBaDYteWJzaHBycHRaWDJiZVIwMHRUUVY1dHNsbmwxbHpuTEZnM2RBMlRlYmU1SFlaN1BDWkZtZko3YXYyNkdZaTkyOFJ5WG9wNlVtcXZmdkRaRTB0SXVSQ1BVekE1S3dtQnp3?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 09:50:01 GMT",
-          "source": "Deccan Herald"
+          "title": "Little room for ‘giving and taking’: India’s finance minister flags trade impasse with the U.S. - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsOHN5LU5EZG5IU21RS3hnRXdHeWk3V3ZsNEZoUjlnUDhGN0lVQVdrRGY1aU1kOEhDdHJHYmcyWV9pV0h2TlhHekxwb3B6N1Z0Rno3M2hLYWpBdlZCLUUza25kczZlbHl6SFBXbzNpYk1VV1RYUTBzWDZjclbSAYIBQVVfeXFMTXpRbnRpc3diNzVKN244d0pjRlA4REMtcE4yb3NXVDEtdm91X1E2aEZ0UjNlRWhhRUJvTVdKalBnVk9FVURrQkY0aFBoenAwSVlJNHNhdGZhZ2RkNEUxUFFJYktMaWloY2t0SERQM1RmWWM3ZDdycDZYVlB2Tzlic1BLQQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 02:29:00 GMT",
+          "source": "CNBC"
         },
         {
-          "title": "Protest against CEC Gyanesh Kumar: AISA president Neha released at Narela Industrial Area police station - The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTXRUcjNwYlVsWWJzbVhwak1waHBEWU5LS3VnN2hCOXctVnNBZmE0NVFiTjhzeGFVcy1iRGd0aFpfRS1DZHRuSmhEUzcyakN5TlFOLTFCT1ZNTGZZQndCWG9Ya2tsREhOWDcyUXR3dl9CWXltbnJtYnBPZDZlZ1FMTXZUZE01WXdpR3hsX2hFN2p6NTk3STIxVHIxemNCNXIybWxKSUVla1o4Tm8?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 16:17:06 GMT",
+          "title": "BJP agent sought Form-7 deletion of 7,561 names in Ballari - The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYlVZUWNiNXpYbUM2NnZBQzQzNU1xc25ZdVhxenRNQk9SQkVRcXFKb080RmN3czFoZDUzbF9ZQVRwVGFzbTVoVEVKN0JaVVNIUElDRkt1dV9wMC1JTF9FR2VMdlQ0TW5rNzdibU5oNlZIbGNpLUZwNUFSZW1oVkhCR2RibE93UUxXbmdmZmcyNmZOYnBEZG52SzRVRE9nMWtmQUdXTjRieVdTaWVOUG5uS2ExZHg3S1hDV3k4NEh5emRrWGVEamdlUzE5b01RTnhSOXZzUVJHcjhycG9sc0lIR2JDNm9SWFNuZ1gxUGp1S1l3Z9IB-AFBVV95cUxOd3hSMG9uYWd2dlZmdXl0MHF0LUs5dUp4RW13clNoNEJvYWo4TFNHQ2h2bWktQlR0UnVHYUdDelA5UExCbHpMcllCdzN0Wk96dUFZUldhZ0xBVVpUN2pNdDk4MG5kSW14R012cU5lMFpEX19LWUVFQkZad0NFRUtOd0F6eW5yd0xoUS14eU96b1dVUUdhUzJFUVFnUzAwR0ZYRTN5Wi14WWtoNTdxQUM3Ujl1UThlUndPdVd4U0UzZ0lKN3NLRWw1bFFvYTVabUVHV1FkVWZlQkdOcjZMLWRqdWZHMjNISnFaRGoxS3VwWEtDU1JzOXc1bw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 00:30:00 GMT",
           "source": "The Hindu"
+        },
+        {
+          "title": "Centre Notifies Elevation Of Justices Sunita Agarwal, DK Upadhyaya & Aparesh Kumar Singh As Supreme Court ... - Live Law",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQkNnUldUZTdTa3ZtN1Bma0hjWTQyUjRmVy1nOG1lOVJRZ3RNUC1DV2RSUnhRelgwaC0tWmYzOUpqTDNNdXpRdUlYMTJSUWdJMm5QOUR5NU4zVTAtNVpMN08zYlpWeXRJbW9zcVdkTVhaQkY0ZFlvNVYtQzg3MWE1MTdvMjNYamtOT2t0YU9nQ0M5cjhxX3N2T3RBRUsxNncyYm9sd0xEYS1ZcDc3NkpFVVdSbV9zdEJiZjNVeklkdF91ejFRbFVIRFZjYXVwU2pueU1wejBoemNPVTBaZmU4V2lzVHdxOVN6dGhRUWY5TdIB9AFBVV95cUxPcDA4NUxCWlJyRkVzZHo5QnRiaFlWMHFDMDNablRPdExzRmRnU3BFWVpvM0ZrekR5Q3Qzdm03MDFYdFJqYkpFUkdHQ2xaZTF0Q29RYVdkT3pvWVljNk12ZXhCSmZmSjI0ZXA5dmVvSzB0Z2xubkFQVkNwMEpwcTVRdk9hVkoyRmRLVGtzcGdVbVplNkZEd2g4VjZxOFFpZFR5QUFsbWFmV2g0TVVza1RhVml4Yk1BMWRUZGgySUcxLS1PNU5SX3ktVzdxMlhGS0pQWk9zckZITDJXeVpKVnVtSFlfWk9Vd2dYcTNfalZua3B2Y21j?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:57:49 GMT",
+          "source": "Live Law"
+        },
+        {
+          "title": "Set up 24-hour monitoring cells to prevent sexual offences, Supreme Court tells Delhi Police - The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkVwaWpWN09PbEw3YzN3bVIxWmhpSS1MQmZKeDdFUFAtcHVVUldMd25vd05kdTRTc2l4S04weGZENDZhUnVwTjdwaUM3Y0pmeXBGZldVaWdaUExKMm1HeTNmaldyQldrc3RwTGVDNDlvajVCenFRNm5YanJvTlQ2ZHA4eTJ4bUxyRHlJalF6Y3c3SHFQLXhHQXN1bUZNSFJQZW9GTjU5U1VMMEhJWXczMzg5RVB0ck1rOG9UMEx3RHhfanVBbi1ybmlQSVFqVUY2OEpoRVJSSVFXUdIB4AFBVV95cUxQS1o1OTVrUDJvYzR5YjZpLWFuYUgzRkE4WENGX0l1UTFXc0RrYlM2eWhsZHhuZmVWV2drUllyTUtLVlJnVEljaEdyRmxDcjhXNmFURVZOcmRDVkIxWkhGSmZOLTlMbTBpUEJrWFhRSnVjZVZxYjlPV0NEY0hyQm1sa09MSkR1VU9yNHRWeE13d05OZEExaUNvdzAtWkZkU2c1QmtTeWpkWkcyYkUta2twRnFhRm9aUjdjZjNEUmFkWmFQalV4cTYwUkU1bFAzdDVTSmQ2N0JhV21haHZ6Q25oTA?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:47:06 GMT",
+          "source": "The Hindu"
+        },
+        {
+          "title": "Delhi Cop, Accused Of Sexually Harassing Woman, Gets Promotion - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDVwNENkSHFqOERwY1c0cl9qY25NNEx6UHZNRVVZVlNaRFFWMDhlem9INThadXBzOE02SVVvM0dPbElKOTQxdHJ0c1VJSTl3TlFnSnN0X09OZGwzaHUybXRTNk9RdjhCM0syOXFpbnU5TzcxQ21TbktmVnJiTUFHenFtWGhBaGZYc1dhTE5fVTgyamwta04yWTFiRUYxbzJ5TWtydHFOQzlRRU1hME1fYTVoVlRuMkxuUTZpc3oxRHdtX1XSAcsBQVVfeXFMUHEwT043OTdjNDNVZUdCYm14WlZPdHBieURwMTYtODdKQXY3YTFyUThVbHgtTnh4QWp0THB2NjBPUTNpTnZfYjBsa05uQnRySENQWkVlbDlTSVFqdm5wQTNuVTlGRnhQc29xbjFIV2c1NUNrWlNxbFhpT2RMMEtzR2RGUmVqN252TUlzNjZoWGxNZWlaSXFQMGZzU2xjNHJzNUkzandYUzQyZnNyTnhCVno2MUZSZTJmTDBjQkNTYnNPWHRCQlRhTkRad1U?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:26:02 GMT",
+          "source": "NDTV"
         }
       ]
     },
@@ -60,52 +60,52 @@
       "label": "World",
       "items": [
         {
-          "title": "What are the five questions being asked regarding the Flydubai attack? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS3VvdlBIYm5zQndIeEVja0JYR29VWHZRR1J0aFNEaVF3Q192cTNLX2tyeHNxSV9fZWx5djRuM01UVUNndEozdTkyZDhWUFdONi16MWJPS0NpMXFEMVhUMU5MNWZONjMtVXNsMnBGTmdqU1pJSGVsb0YxQjFZaXBERnJOLUJWY1k3QlNDN1dMY0cxWkZwQjY3Yl9kYTZoMDF1R1dsaGM5N0VQWjR6YkVv0gG0AUFVX3lxTE1CYVdHV1MxT2JXRmw1VFVFbUthLVZLTVlPZkxXbDRrWG1OVlFvcGs0QWdTVmdGQkJRY0xsS1pOcjR6MXlKUGZCaFJoZFdXUDZTNEd0X1ZkQnB0TmoxdVNRc2tUT2FNaEZrdXRna1Y2Z0poYmF2UTNqWm0zTGthbUZGVDIzUTEyOWtZMjd2WG9tLXYtSGxGN2dXNWZjdGhJV2NlU3NxZnhETVdub0ZPZWJ0RlhmZw?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:28:51 GMT",
+          "title": "Yemen war: What’s the latest, as government forces claim advances? - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMDdyRHphbXllR19WLS1xNmFsdDJ1OHIxb1IyQkYzLThPMXpJaDI2ZWxuMjhLS1BlRkxZZVZkX3JjRjJNUTJGMTJRY3BSRlN0bFQyWHFPdzdfUkZ6Sm8zeGdfdjZibUJmVG5Renpob3FlN21PRHBoand5cmwzVFBhX3lDNUxtYzg2MVVpbHBqb0JDWG9IQTkxVUxmcFTSAaIBQVVfeXFMUHJQMVJBN0RLaVRhQ01ya0oxZU55NnplbkU3SjB5YnJTbEhHeHBXVkZETDdwUlBDT29YWkdEbjE0TE9CdGswejl6YWk5cXRQOGJkR0FfVG5EeGNUQzBHa3lEQmFBMkZab1labHN3OG4xNnByMUpubkh3VFUyOENXc0t1TGhhTkg3VmNBdk9TeWZmaERYTHdqLUl6ZmlqUzFEM0pB?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 01:04:04 GMT",
           "source": "Al Jazeera"
         },
         {
-          "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZ0bnoybURZVmlZOVhpSmVnX0lKZzJucVBTT0V6VzhNS1VENUg2RjJ2YU5vaXk5SkZlRjBIYnY3OW9YSVlMQkFfTjJHSEd3Yk5NT1hhc3p4NXJHX28wcXhoT25SVGE2VUFnMWZpSGdJcEhYeWVtRm9uOU1YRmNQZDdWQmhIdUnSAYwBQVVfeXFMTXl5VWFmOThmTzdFNGdzX0lVRjRMdTY0cjZvSHIwTUZGaVNEVTFKeUEyRTdCVDNaTFNOQmJOZ2ZpMk53NTFDY1dDSktRc29jeXNtQVZGOXR0T0oxOXlzNUY2QTdLWThxcXNvT3lHVk9ZS1FmNWpLM2kxRVVVZERTcm5EM2h3YVdUTFdhVHE?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 21:17:35 GMT",
-          "source": "CNBC"
+          "title": "Jeffrey Archer, bestselling UK novelist and scandal-plagued politician, dies aged 86 - cnn.com",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ETWpnc0pPVld4eTNPUXItZ3ZzMVItcXNjQmM4dlBsWVRWNVN3SXVxQkxoQ3Brd2hMWk1DSWU4Y2JGbG11NmZadl9qeEpwZGNJU1ZnSWhJQXhBaVh5Z1lma2FrUU9kaEZKYzBGT3dLR1V1LVNxdHFSRmNKWQ?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 00:13:00 GMT",
+          "source": "cnn.com"
         },
         {
-          "title": "‘Re-deployed to their home stations’: US withdraws all bombers from UK’s RAF Fairford after suspected ter - timesofindia.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOd0NUVXY0bUJwamtOb1ZZRXBXVGc2ejVlTWVfZ2J5Tm5sMWxfZ29RRDJseU1wc3ZJZ0p4X29JU1NfZTVLUUpfYjhvV2I4V0UxZ1U2bGk3RTEyTXlsaFppM3dJS21qUnlYWHlKVDBiY0NDWFBBRWxMR3NSbXptMzNSWTRRUl80QVZVYXB6dFhVb0pPeUZmdFctRjZqd1RWTEc3bFkxc1h2bzEwWXo1OEg1cFFIaHluZ1BOLU9lNTRaeXZSY0k5TkkzbWtKaHhPVDI3d0xhUUZ4Tk9RZVdQUFVGaVhtaVRzaHFlNkpQdUQ5aHZvYmhQWUxiR2h3QzBCZjlRMlB4ZEQzOE1LdHFT?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 21:32:00 GMT",
-          "source": "timesofindia.indiatimes.com"
+          "title": "What is Pneumonic Plague? 200 people under watch as Russia scare puts spotlight on deadly lung infection - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZ0M4QlF2aDhYY0EyZ3BnWGRqY2pWamtBbG9UVnRnRjFZRnpZTjlTYUF2OWNxNWFyTVY4TnkxaWJRVmEtS0huMnNyTW81ZmZVX2N0bnMzZGJhTFFEUFl1Smk5cEdXTDlsMWZubFB4dWxqaWY5VmFHRWdyS3c1UTd2ZU5zbGRWYnFRbFZKRHEwemlDcGRvczdhZllHd0lMQWVybkFBRTd2enQ2Y0pQeHc0OS1tSkxPMVpUZWd3dE9KWEpCb3dSdldhZEFkaDFQUlFmVzRKcG9BeEdNUTNZaWpucGdXeGx6dzRLSnFaWExXdFhtVGZ3b1VFc25fNXh4RmtDdVZOeFFnTkJTaGMxenRSRm9Nbw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 16:19:00 GMT",
+          "source": "The Times of India"
         },
         {
-          "title": "Plague outbreak in Russia? Hundreds quarantined after death of lab researcher - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSnZidVhrbkxmaE9pN3ZJd3FRU0FtTFprSzNtTjBxbm1jZ0ZoUmp6VWF6SHp6RVlxcHdydFJzTGVYTTI5WEhMYUZXOUF1RS1hWGRuYWpYNDZKelFBUkYtdFI5dG92M3V3REc3Q0ZQSV9zZUJLOHhjZURrNE5BX3lWTExCeFV5YWRhZFdnSVV5N1ZqMC1LOEhWOU1mMkFIcTM2Rk1fZmNKdTNDMGFnd0s5dmpwbU5PbFRNenRVa2VIeXpxdXJJdHBKTkZTLTYyVkZBb0lJaEo1YUlwQndW0gHiAUFVX3lxTE5YdTA3YlZjcEhPcUtPQTlydEZpUF9UdUNXdVl4VFVqWFMxSnlfOVVPWVlrM09hN0NEaHl4WkZWUmkzQ0dwZm1zbEEyWWlXcHpPbmgwRmplOUxXOHc4cTZfMDM1TGFOLXkycnFDZFQzQWMtNVhJOXduOUF5aGFRTDF5U2RaRkxqMHp5S3NlbDQ4YXRPNmZ6RzRQVlBKY2JoNjJnUWlsMVBFRUp2V0t6aGFhYXUzZDhYRU1PbU1ZV0xqc1dub2VWSFV6N3VUQjdMbGZnOHdzRkg2SHlaTXl4bXR6YWc?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 20:27:56 GMT",
-          "source": "India Today"
-        },
-        {
-          "title": "After US Claims Of Iran Diplomats \"Kicked Out\", Tehran's \"Oozes Defeat\" Jab - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHJ3aThyNkF3aHRBRXJPNnNBMHFDTHlnLTNKYU9oRzZ1R0NpZUdLaDdwY1EtMy1uUGExT3h1TGpsVkQwTmhYUDFDeGtqNFRfY2R6dFByX0EtNTRpWHZNTnUtSEFDYTdMRWhXUWFnVXdQMGh5b25nT2NyQnp4VzNTZWdDUmlIZndpV05kXzFtb1F4M2F6VHRjdzlWM1U3RkFhbDVmUWxoaFlQMUlDUVpz0gG3AUFVX3lxTE1hZ1VudnV5WlBhcVpHLVlTT1JReFNkdk55WGNISDJIWUdQVDRDc3Rtd3ZCQ0sxWDdnTUZKOWNyY21WSkd6blV2M0xScnY5WlB1ZTRrSHRSY3NJWGk0eUk0OW9fVGhFeGJmSHhDN3FRRkZ1QnZqTUxxUVNTNWMwWFo5XzRTTE0wNUtBTXRkeTA2TFY4VElpS2xDWWUtaEV0TkRrNjZ1V0J5YWpOVVNwc3VoZGFOR292aw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 17:35:26 GMT",
+          "title": "\"There Was Big Mistake\": What Oman Sources Told NDTV About flydubai Co-Pilot - NDTV",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLWs3U1dYdlZOamNpWkw1RHR5N1ZkZVo0RGdueDZZQnFsRERfZTlkaW00bXlZbi1VTkswbE0yc2xqcUpNekw5RENMd0Y0TExRUnEzNGFDbE5ISF90YTJKaXQ4UEtZVFB0Zk5RQTdiejRQUW5IalZubks3ZmV3N3Z3cUxfc2owcFFLd0J0N3J6empEdE5hQTg3OEpTSW9obDE5Qk91RW5aRHJ4aVNoLWpwcFNCdUNpRmFXaERJR2xlTmVVSjFISjZnR2pFSUN2cEF5UGhvRUVLRE5vX3NOQ2RZ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 12:01:38 GMT",
           "source": "NDTV"
         },
         {
-          "title": "Georgia shooting: 2 dead, up to 35 injured at homecoming party as police investigate | Hindustan Times - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZXIwVFpQXzF1NjRoOF84VlRxVnV1ZU9xbzB5WllwTDRaalE4Y0JWbjdaTWdfa3lJRXYxY21NQklYUFZYeFlDWi1HNDQ0UExWa1JYLV9lcWFENnZvT1ZvWHpYYWFwenRXZFdMcFplN2p5OFJ0YUhDTVZLRjhmVGJfdENKTWZyUFhINVVPczBneVo4eEdBM1RIWEFSUHRtYjBNazJJc1JZMmJwM3ROVzd3VVBVbWdNbE1ZQ2dXV1o3OWdWVHJVZkhoOW0zckxPdVh1cGhnQjB3N2dodGYyVDVXWF9meW96S0ZH0gHuAUFVX3lxTFBlNkE4NWZqSW1uUkI3TVByTlZxZzdIM0NkUjVFU0t0WHFpNGNSTWxlajJQUjZDQ1h5MkJQRWdKTkFOMDlHa1ZYVVhMcGhoeUlLT0tCaGhDaHBRenFpMHhRWk54dnEwUE0wdktPRGhHQWNxNi00dFJDN0h2WXlqdmtzODlOUUdZN1ZYQ3FIOW1zYThmOUFQUGRYV19WUzBWM0NFRTQ4dHpQbHRzSkIyclN5cEVOY1VLT1FTbC1DaDhfcVFXOG01OFhqT2VsMExNanJQbE5SUkUwclJfQTBZUGNZMkUtc25LNXZGdHJnY0E?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 15:30:50 GMT",
-          "source": "Hindustan Times"
+          "title": "Brazil’s Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff - The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaGp5Nl8yQXotRVlUMnBSeW84UmpYX2JDS2tKNW8tZ0pVaFZ0RTFjTDV1Y1JiSlBsbGFVbnRKUk1fakljdmhBNEVHVTVHLVBja3FtMk5KRHYzZXFjQ2dGTjJEbjdyQXQ4TnA3NDB0N1ZvOXhwaFlaRGxvVWt6UXB3NmxjNEp5NTlUTzA1Z1JVQkhwbS1sNnJXSnZyS0ZXSDk1elBMdVJndW5aMVZhQUtKYjRwVE9wVE9PU1J2WVNrUU1FY19uak5RMWZuR0hlRUFXalBaTdIB2wFBVV95cUxPRzljdW1XMjRBWXZfaFctdFhHcno2QnBpWlloaGxBRUkzSXdfaXZzS0FISmpKSVZKZHh2OF90aEVzYVNTUnp0MVRwTXY1VDZuVnhUT0RlOE9OY3JuOFA1VDR4c2JBTWdyaEpTYjV5c1hBbUw1bHI2dXZzNUJUSW5zZEdRd2ZoQ1NDclNGR1J1Qk1VeDF2eV9faHpTTmFOVUI3dkNjQ3QxbVRLRmFkMmtLVXpBNGRsUnY3VEdWeVNjbDE5eHkxWXVzRXlabjEzM1NpeTFFT3ZPM1Axc00?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 23:27:21 GMT",
+          "source": "The Hindu"
         },
         {
-          "title": "Why is fighting intensifying in Yemen’s Taiz governorate? - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnczemg4eTVoNU1yVFI4UFdYbkRyTFVVSVNsVUNCa2ZVUXVKSmczSklWRG9qd3JpWXVTMW1VSnFrb3N0X284TGFWS3lXVWx2bVpHMGFrYzR5SEM1aldtSUdyZzltM3pHRVRhdWRabUp3ckNhcjluMzZQZGZPb0NaUVpNSlY0MzR2cHpZVjZmTExqa2RfSTdkUk9XdzbSAaIBQVVfeXFMTUJhRmZyc1FtdEFmVk45LUlORmdwRFZRTUUwbkNmT0Rzck1SemxZdEtnTkhsa3h4ZDdfRHNBcUdFMU1mbk1jVUcyVENDX2dJQkVhWmdBZTBxMFFRZGRBTFpwdU5DTWZoMXVQM3M1VHF0Wnd1LVJYT2gwTEdDWEQxdS0wb0hMdVZyOUhWalotUmU1dFhVX2h1M3J6T3F2Wl93TlRR?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:58:52 GMT",
+          "title": "Mecca Pact activated: Pakistan, Turkey to rapidly deploy troops to Saudi Arabia - India Today",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVRScmtYcmVPOHlQM1p6ZU1jSC1rdWhvZ09kQ2pXdVhtczhZbTJNMGZmR3RRbEEtcmdxMlkweEVNTVg3bTNFN192dzJQZFdqUl8yYkQzd0lDNnB0dmk5OEplQTdVVkJJd1RSQzdFOHRYM3JwTDVPbmFaWEZzeGxtM1ppaXpmS2ZpMm5HWTlHNmJMOWxxRS1JV3h4cUxWQWJIcTA5UW5sUXdEMkpuSFlnUGtXYkNrd2hhejBRdlBFeEFQVjRxR1Bpb9IBzgFBVV95cUxNVDBsRWZYYjRiZjJlLTY0bDdiNWpfVUFzelN0WjdwZTFmQW9PZlI4TEJtY2NXemktczZRcU5taFhOazFxMEhodFdPX080OTl0eE5sUjBkeVJWeXRVQnFWeUc0c2FXMkZpVkVvRldxQ0RqaHhjVEtLMzhBYVJKZnRaRTdFNVBZNVlRZHlGbTRrbU5TRy1NeHctblZQeHd6YTJuRS0zQ2pvOWx4QzBydlRkb19KRGpZaVlOLTdkbVRFS3ViZFFwaVdhOG1EU2tKdw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:09:44 GMT",
+          "source": "India Today"
+        },
+        {
+          "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ25McEI1U1lNek91bXVycXhoZ1RvSl9qVkNHOXk4Q0xJeWphblRFb3VFVXBmVDBiQWQzT19RMUJBNGEwbTBiQV9qTG1hQ3NYc0pPZkRxMS1pOUd6WU9mRzd4cFpQc1VvTENlSmlCbE0zRHRVNU9LS1p3NDhrb3RGU3hNVXJGT3NRdHNJa21GSkZ3cVZndG1vU1JNSm41STljZ0FqdURxVnIzUjM2THhGMnlB0gG3AUFVX3lxTFA2MFdWOGhzdllSemkzX093WG1rOGIyU0JKQ0t3U2FqcWdpYzdISGktU2VxaUJ4cXhrWEJoaGl0MU5wbFZHSDNQVnBxOG9uSzYxMHFlZFM4dHB0eHp6eDJ2akpoMmdBY1phaUVMUklJcl9rNnBoQzdwa2RCeWFEQzZ1QVNYVUtLcDA2a2ZiR3ZxamNTYmNZazVnS2sxYlI0Z2p4OWZCMXVkc2JQYkJpX01ZTEFjTmNFaw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 22:24:05 GMT",
           "source": "Al Jazeera"
         },
         {
-          "title": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR2UxTng5TmFXNVZNcHBNT3BOVHlLN0djMkJJUHhQa19lV1hjTWw0a2ZzaXBiWDlfam5XOTRzdTZqd3NVYzAxU0xXc0htOEI5M0hYSENiM1RkNzFxaDJzRWJSQTZJLU83MVJOakhRVG9KN0ZCR3M5TU9MT3RvaWdXNEJVa0VvbktwLXdiYlFQVWVRNVZJMjlYUmtDUDhOU2Zs0gGmAUFVX3lxTE0wTjlFb1FMSXBZS21QVGNvUE9JTXY4cUhONEtxWnNQR0FTUVBpdVpzMTd4VzhucWxWejNUTzU2N2ZDbWVNZldfS1VQT05ETDl1ZjU2cDU2TUlueXgtUk9Dd1o2NGF2VEQtNnM2Y05xVWxCQUxQVGJDRnM0c3gzd3g2MzlZcnk1cTk2ZFpPeWxNd1V2cXp5SUk3UFYxZjZGMVY3UGx6UFE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:58:52 GMT",
-          "source": "Al Jazeera"
+          "title": "How pond algae led to a Nobel prize and a new way to study the brain - The Conversation",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOXdWbzlUSEI0RUh2ejJ5ZE42ZHVJbHV1dTNQdUhrakVBQzRxNjR5R3VhUGdBOUZLMlNURW1CdkdzOWV4Y0tORHZocllNbDZUTlI5SUh3UndSX0VHOFBMdk8zMi00dC1HbDNocDdib25nWC1KZzNEVDhROEpNRkw4eTUtc0MzQmg1MVo0TnhkN1k3TzV2cUNfWGVHV2R2OGVVTzBjS05R?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 14:59:27 GMT",
+          "source": "The Conversation"
         }
       ]
     },
@@ -114,52 +114,52 @@
       "label": "Business",
       "items": [
         {
-          "title": "Stocks to Watch Today: HDFC Bank, AceVector, Orient Cables, Manipal Payment, Pranav Constructions, DLF,... - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQemVjQ05mZTZYbVJGdGk0cjFEOThKNDF5S3J3TmRyQlhRRGVJUnBRWWc3b2JGbjBMUnA0SkUxaWNxVHdmd24xZUQ5Y2pobE03dmVTVDk4MVZJTTNXMjdjZjVrQkEtZ1lwRlp0ZnlMbUREejFncXl0S2NIa0NYV3BXUURRcGlNN2NqOWtPQnZndjRUZlQtQjhoNGxvRXVPR0o5TGJhUVFWSXdfY3lvTFhwV25SYTJXWXJBSGhRdU9oQTFmMDdXZVVZSnRCMDJUbV9STmd5Rmo3aU5MU0FlZk1uMnB3ejl4cGpKOHU4S3NzSFktczdIblh0Y1lLWExwWGNFWl9IcF84RkhLdUNhQUlVTE5WSzZ0cVhIdlhfRjNabkxraDd2Z3BLdkVUWUIxMjR5WHVRQXFPV2p2UDV1ODE5bVVTNTRCcnR0SUgyU25FONIB1AJBVV95cUxOM0hNTVNOSWp4UFRpdjJ3akRpejRTN2tEel9iQlBHd19wWEU3Y2NsUE94MUppMmxwMWRhcWh3TmR6czQzRDdOVGxxSWJRa0VoNm5RdmtGLXZzZlNIOU15bGYyaWJBcndiY3V4T2paYldRQTY5andoMWx3YWk1N2taTWd1UjdmRnRjQVF6eUlGUERwV2NlMTR5X0llSTVwTHAyZ0FjMkFMaXVNdm9pWk9KTGdJZE9yOGZlbmpoMmc1QnMtVzFYVlFKR3loSVctUEV4RWpka2htOFBsQm9uLVJ0WDJKeThLU3BsWHI5bl8xd2pTT3pyWkZEUENkT2lkNW9JeXNFWF93clRmZmpWeWpzeDBId19EelYxTkJodUkyeDc0alJ0V3BjaF95cXJxNGc3MDVTM0FoeVhGdFVSb2VDOVlCemxsMWFyeWFHbnVBVlZCV2Zv?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 00:59:55 GMT",
-          "source": "Moneycontrol.com"
-        },
-        {
-          "title": "Top stocks to watch today: HDFC Bank, Yes Bank, RVNL, Bajaj Finance shares in focus on Monday, 5 Oct | Full list - livemint.com",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS1BZeElfLVNOVkJFOG0xZlRmdE5rby1aTVdrMjFGVjJBNWR5eVgtc29xNWxVR3pGcWpKa1A0Tm1zWGNMcWYzZ0xiZ3c2WGhkZ3F1TjcwLW9YUE5xOGdTZlByczdVUmtWcmV4cE9uYXVfdG1PS2R0eXBGQUs4TUxKMTFGb1MwRWVnX0RZMUNVdktRTi1PdlVwdnFqNmJyWXFIQmxaMG1fSzFHbXpNdmJsSE56dlEtZW1lMmZVUHVlcDZiaHRiUlhsak9yOWZNVllGUWFjY1lPdTV3b256R1ZOY2pQRFZ0V3BOeUlaZ1FPZTFvZnVBdl9tbkwyVm9ZTWFSX0QtUEx1dGVrUdIBjwJBVV95cUxNd2pUM2sxcGQ2RDlsVkZkWkthU1pTX2JaeEhYSFYyVWphRm9sZzhVY2UzU0VST1c3Vkk5MFhIZ2hNQklPM0hyWldoSDQ2ejctb3FQMWdoUVdvOVRQOGxtdWFnLWthVmRPZk43cW55eUFjRDBkaVpoN1dMYUtsSW5DV2EtLXZQZkxOdkdhUG9idFdxRFBVZjQ5dnBUTGk5bkk4ZFZLYW1EYktmN05pQ3QtLWJmUld6c3NfdERuMkh4ZlR2WDRobTdYcFliVXVncERvWnNFVXRGR2w4cVhidkhFOXhMdVZuRDdSS1FSd2lqX2xneXItSnFQZWNzS1ZIZWJUS3VvcFhEV3FfVlZuZ2pv?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 12:36:09 GMT",
-          "source": "livemint.com"
-        },
-        {
-          "title": "RBI may end rate-cut cycle with first hike since February 2023 - timesofindia.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGVQcUZRa3h0RXcwRXZJWVFmcUlzWUtkMWxZOV80VXp2M0YxNXc4c3pZbV9aRDdRaVVEcGVJZGlGMktyNzdwS3VaLTJwT05ycl85cnBWRktLYk1tYVJDSGwwRmpUSXFBY0hWY19rYW1NaFpPdngxc0VqRl9HRVhoOVBuelFvMkpKLUxtbHBLZVBlRklfaXg3UFFzSXpCNGtjaWpkazZQZ1JXZEhoYlU1S1k5QzFWQUJuYXJFeUs5T05JcDV0M090RDBNb1JUZUc1SE5yTjRkRE80YUl0S3lrY2l30gHnAUFVX3lxTE15WG9wRFlIaVk3NUZvR0M1Q1hfNnMxN2FJUXp6M1pGYlZkRjhjMU9lRExJcGNzN0wwY3ZCeDducmNYSXZZQVdjclUxQUwwSDFRV0kzUkRrR0FHdTJjcGRZLXJlbDdBUnc2OW1rbGNWbmhGYXZYdFVZUkZXTmhPNnZLUlNtQUN0ZE00REJnZ29GdTRQODBxdWxfV1JQMDFMWmxkSHEtdDlzUFZwV0c4RTdud25wbDgxeGhkRTNvQkExT2RTeVREUkdaLTFSTTI3Y1ZkdU92ZmRiQ05oUFlTSGIxcWVaX3BtVQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 23:49:00 GMT",
-          "source": "timesofindia.indiatimes.com"
-        },
-        {
-          "title": "Oil slips as Middle East crude exports rise, G7 to release stocks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 22:17:00 GMT",
+          "title": "Indian shares rise as oil, Fed fears ease; financials gain on Q2 updates - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 02:37:00 GMT",
           "source": "Reuters"
         },
         {
-          "title": "Reliance Jio IPO Update in October 2026: One Month Away - TelecomTalk",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMUZyMEFDbnJpS19tQ2xoTDVrQk5Ebk52NktMRkl2Z3hRei1JUUNHamF4a09GY3lVT2FYRkpnMlBOYnpZZFVyMnFNVVY4TVp1amxvcHFycTV2am5RVWJNQ2JiVDhibGRHOTZDT2xnckJVMlEtWXhtbkd1TzJVc1JfeXpR?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 01:29:17 GMT",
-          "source": "TelecomTalk"
+          "title": "Elon Musk Becomes A Trillionaire—Again—After SpaceX Stock Jumps - Forbes",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRGdSTmhOdnU5X0pqNUxhTmVJOWxYRmd5U19Tdm5uTHhsRlpBT3ZfR0FHTW83bWRtbU9jYUNtLVF6SkEzRl94WlA5a0dzRU1kd0dlUjAzeTRid3V0N2w5dzlOYXhVV2VCSmNDdlhSbjU2V21pWFRjSU9GYTRSR2ZNRmJGTEpNVUM2Q3RCRUpQY2w4VHNBOTlsV1laNTl1VWt0aUdVY2NxZjJMcjR0LVVkRl9VSnJ3UXBn?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 14:15:50 GMT",
+          "source": "Forbes"
         },
         {
-          "title": "SEBI receives 20,000 comments on Closing Auction Session, market timings consultation paper - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbi16cHRIREVocE8yXzl4T2hHMWx4bWY2T29mcnpNSGFhQjdoNk15clctSWEyQi1henY5V3RpX2lpWW9PelBtWGtpRmZ5U3VPbFNwdDN0bmRxSGNsbmJTNjVlTmIwV0VadGF6Vnd2dTgxSGx3cFgtRnlJMmxoOGhGbEdvV3pzbWNfc1pPSFBXcV9tSHRKd0pLZ2R4ekRkalpMWmVvamlZRTJZWkdaZFQwWWI0WWpkVnhBc0k5WlFuNExzNndYdFJaUEc5U2tsYlhlT2lSLTdoMjd1V3JoNmpSVl9GaE52bUl1aHFj0gHwAUFVX3lxTFB5dWJBMFRPbXUxMWJBVHQ2eFQ0VVExaGRsWHJFMW53akFxQU1ZbjBCbkZzbWttdHRJdV94ZlI5U3k2bzNWVFJ0UTR4MWlDY2MycWJ5eXFxa0hOdDNMd1VjQ2VkNm80ZzRadkFHTFlyUUdMMGlJSkVrNnp5YjQ1ZlFtVHlmZGVyMXpnc2FDejJ4aVJKRVRURF9TYXdGZ0dUTnhsRXJuRFU4bEVqamthcnBNbkRuVnhiYWhZanQwZFhZLUxaR2UtWkE3bTB3N1ZMc0dyc0k1YVR5eW5DSVNsRGFma0R3MXdlakduRTY4WDI4VQ?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 15:28:12 GMT",
+          "title": "Trade Setup for October 6: Top 15 things to know before the opening bell - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcG9ZT0hiSmFvSklXUzhZb3NLQUhvbFFhZE5MWGU5MngwNjF6MU1jZGlOLUFlYXBQMzM5ekFJZi10dDRHc0hVb2xWVm9XVk5aX2VOU0sxbE5MYnJJQ3dFZVNOWVo5aHBGbTdWTGZaVU1LeEdaUFpxX0tYSVozRDFIcEZmQTBWZnZuQ1RiWHF4MzZnX1JJQkhvWklXMUFfTnRiWmpYMEt3QWp4TXhuSGhrUHpPUWp0MVVpRjc2UEk2X3p4MXBJUzlJTS1PU1FMd0J0U1HSAdcBQVVfeXFMT2hFMnBzUWhjemRJcU9WbUEtYmFkVFU1V3J3ZGlNY3FSa2V4WDMtUVlGRm5MOUxiSjFGazRTd1hReUlnYVVvbUt1dEItNFpfSXhEYy1BdUFmaUlxRktkU09vR3haTkNranVCV0RuRUtNMDNDSDFqbXRQbkpYdENlZ0o3U3JFM3lxSjBtUERpS2RmT2NDS2hNb0RKSVJ1dEEyUzVrRU5sWnZwUHNIWjdiUWxSZVNLaGNPTFlqcVFjNVkwazhldWRCc2RkTUVOTEE0bEZiUVpUdlU?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:22:18 GMT",
           "source": "Moneycontrol.com"
         },
         {
-          "title": "When every number is a risk, the watchlist matters more than the buy list: 5 mid-cap stocks with upside po - economictimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNeEdBN0dpeDZnOWVCVGtScXN3THkyNW9vN1JSRDI0V1NKbnh0SFJGVV9icjg2cGM2c0c0T2pXS2pTOVVsVDB2b0c4VDNZcm5VOHJTYVAzR3AzV1JVQ2owMHdfTGhUWGNLOXV2X054TUY4a2JjcUlDSy16Z3BLMnZGWms3bm40Vjk0YTBqQjBkZlJHRXNSU3B2b212NFJmNHhNbXpmX2ZfNzMtcUw1M0ZrS2V2cFo1NWZ4elhGSkVrQ090R3MxZnU1MnUzYzhQUGZNWkJ4N3Fob3ljVGxnbmdrY25fUF9iTjVUNmFtNVdybG9LM1laS28xQWNLSmItMWNYb3JKUFI5SlJfWTViaVBSVjRsdW15cnhsR1dzSzZWWmJfOVnSAagCQVVfeXFMT2h4MUNBMUNuMllOVDB0R19mbW5rbnhMOURkaG1heDNPcHBzU2Y1ZmxQbG5ONWh3OGdMYUNUeDBBYjFac25KZXd1aW1kXy1NV0xfUWRqVkNxYXVJYmpueGgxaFJfM2laTmJ2VWlUcFQzQmJKNkp3eWZueXd3UWVIZUMzQW1ja0J6MmdhR1gyWWZQNHF5ZnRUTWUzeHhsYWEtbUVxekl1Tm5uS1d6OWg4QnVYbE5kR3ZtQVFyY0dhT0lvNEpXcGYwWWMyZFVfaVBRN2NxcVJLNnZmYXRVZzhqZ2ZOY3dOSjZzSDA1eVJBd3BSMjVEUEpvR1dPOWM4Qi03WXhaRllCeURqQXVQMi1zeVV1QXNaR1RJRE5iXzIxYUozZkUxdC1qZHE?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 00:07:19 GMT",
-          "source": "economictimes.com"
+          "title": "British Airways London-Chicago flight declares ‘emergency’ mid air; makes U-turn after take-off - The Hindu",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNkdoTEluUDNGNVZyVUZZZ2t0THpDMS1vaThpYld2TDFFNkprNU1HNnFOeDlFUGd4cDUzVzVqZXVTdjZXY2MwRlpQNUNUR014S3BLYTZtbVVUaS0xOHloNlNBcHZWeTViMmJYUHBtb2xsdXhOZ3ItaFhPMDhHMHdQd0tZLTR0RlZ0bEppNU5oaElmbUMwaVVIUHdLVzNqV1dSVThiMnVla0FoSkdiV0xKSUJ6X0Vub1RkYVJjR3NEQzZxYkIybjVoQ0JraUVBX2ViZ01JRk1uX1d6QzNNcEJ1UzBFdDI4MUhIa0x1atIB8wFBVV95cUxNam10bHFkR2NjdXJJamYzejktTG9VbUJQTEpGUC01RTBTeHp0VU9JRmgySDFuUTJmX1U5c3JYQzZVSFF0OVNCX3lFZ0dtR0llWUx1UHZqU1dkbEJMTmFTa2dZRnRxNXp1NnVRUnRMUUl4TGFIa1pyWURBQy1HaGZkT0lQdFR5d1pMZDBuQm5fcjA3N1dISnJ2eTUxSW9NY3JudThUSEVPUWs5ZnlLNXRyV1dTcGVyN1JmTExqcEhlNEF6SjBBTHFacFhucHd3WWJQbWptVmlHU2RRVllKUDNPM2VuLUFRcnpIQ2k4UWVQU2VPOVE?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 15:10:11 GMT",
+          "source": "The Hindu"
         },
         {
-          "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street fro - economictimes.com",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSlpCZHRtdU1mRHhwdmZTUWZFd3lpN3A2bUxuQUR4eFNZUm9xdkEyRmN5RkRIYjlUVUVyUWVCNDRnSmlpZ2d5bGI2NU5weVBBcUdaazhCcnotZklaUWRKMy1JbzBiR0otSktubEpFcDRGT2ZablZnVXNkbEJLekhMZXpleFN3WF8wMWFNcmEyRVNnQVFTTXR4eGpPOWJsWXFnemhsSE80U2IySWFSdkt3WEZQRFpQcUY5VDRVcW9YbjJXdzA1T2NwWkY2UENKZ3lJX3BaMFkzT1NKMVVaNnYtUXJPTXBHbWZVVWVld2VlV3ZTUm81cnpEeDlNb2p6eVNa0gGGAkFVX3lxTE9CX1NSZFR1dlFHem5UcVVXbmJCOGhweGtqZkZFZ0VoRDF3WVNQcTBLMTBxTzhwTkE0LTR1NGlZQ0VNVERKdk0xNjVPVTAycFpidFBVMGlLdG4taGRnVElxOTV3aVpmYzhHU1M5di1EWlJqUkE1bVJ3MEEzV2xyaFdOTjhWSTRXRWxtR2lWdW1Yb1pXMUVEM2NlSm9JSmhlRl9keVdGaTdFMEtiblNXRDV0azdfMUN6eDZyWXdEX2MwaGx4WmxzdFI0WlU0U1dkNWQ4OEpNQm9nZGx3anFMbXY3V1hPUVdpOW9JMHJZVURSakdPS3RVZGQ3MkwwMUY0MGtwZnowelE?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 03:44:26 GMT",
-          "source": "economictimes.com"
+          "title": "Ambani's Jio Platforms plans to launch IPO on October 21, sources say - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaG5MTGNsbDAtTGd5WThFR01DbzlGZkdFMkpGQkliR3dwTlJRdU1sLUxjOV9ubnk3TlQ1U1BlQlE1NDVfVDRzcG9vQ2tydVBsakhCUkV0bnpIemFLTmR0X0VmUmN0clg0VnlOelk0N3cyeGJTeEl2dnRPSl9HdlNka1I3SnVNb1BpM2VVNkl5RHpOOFFxRkhKeFRqQ05JVF9ER19BbTFNZDUxc0NEbEE?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 15:34:52 GMT",
+          "source": "Reuters"
+        },
+        {
+          "title": "RBI may end rate-cut cycle with first hike since February 2023 - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGVQcUZRa3h0RXcwRXZJWVFmcUlzWUtkMWxZOV80VXp2M0YxNXc4c3pZbV9aRDdRaVVEcGVJZGlGMktyNzdwS3VaLTJwT05ycl85cnBWRktLYk1tYVJDSGwwRmpUSXFBY0hWY19rYW1NaFpPdngxc0VqRl9HRVhoOVBuelFvMkpKLUxtbHBLZVBlRklfaXg3UFFzSXpCNGtjaWpkazZQZ1JXZEhoYlU1S1k5QzFWQUJuYXJFeUs5T05JcDV0M090RDBNb1JUZUc1SE5yTjRkRE80YUl0S3lrY2l30gHnAUFVX3lxTE15WG9wRFlIaVk3NUZvR0M1Q1hfNnMxN2FJUXp6M1pGYlZkRjhjMU9lRExJcGNzN0wwY3ZCeDducmNYSXZZQVdjclUxQUwwSDFRV0kzUkRrR0FHdTJjcGRZLXJlbDdBUnc2OW1rbGNWbmhGYXZYdFVZUkZXTmhPNnZLUlNtQUN0ZE00REJnZ29GdTRQODBxdWxfV1JQMDFMWmxkSHEtdDlzUFZwV0c4RTdud25wbDgxeGhkRTNvQkExT2RTeVREUkdaLTFSTTI3Y1ZkdU92ZmRiQ05oUFlTSGIxcWVaX3BtVQ?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 23:49:00 GMT",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Maharashtra Charity Commissioner asks Tata Trusts to respond to Venu Srinivasan complaint by October 12 - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOGhhSEF5WVVzR2dveDdQSHdla1FtR0x2YnU0Qk1samV6UWRMN1FBTkpnSjBWSk1Rd2ljejUtSDM5S0RTWXoyNExNRnV4NjMwSkFGODh0TW1mZXNMcm9ENlcwc21UQ211RmZLN0p5NjFwbFJvT2s5NFV5RkFYQTI1TFhfZXBLRGVaZ1dwNk9QNW8tLU5oSGd3T1hpMWJaMmduQ2dwSm9BWVAzQnZxU0VHYllWa0x3Qkh1T0F2YWFoLVFBUGJMOEVNbmdzb1RKZm1tWl9McGxfVlE0ZkNfWW1fME9LZmpibzh4R0VObTFNekFvUdIB9wFBVV95cUxQcG90NU0yMkI3RF9DMEQ1NzNUN2Q0aUR2RktfYVZRZjVob3VtVDh5RVVlLVVGd2czUVlaOVczOHV2X19PNGxuR0tWT280ODNxY2taYmk4YlE1NGdHcmFFNm1lZE9nSkZrTUh1WmhTMGhJckRCcDlmaV9McW5hSTM0M3ExWkpiR0EyTlRGVE1KTlVha1RaZ2I1VnFZcG1TOHl1M2ZxY2V4dDhTSEU5WmVvRlFFVGdGRW0zWmt1d2ZGZVJCbDJWWXk4c2tpYnBOR0g0Z0VVMTVZdGlLTUhJdEM3Y3VKTVcwQnRnZ2l3Nnd3YUZidXphalU4?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 17:41:03 GMT",
+          "source": "Moneycontrol.com"
+        },
+        {
+          "title": "Sebi to partly reverse derivative settlement rules after pushback: Report - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaGlyeDRXZFl1NDlZR0hXVFBwd2pvTW1ueTVRdHdzZHlCUzJoWEtFUHFHZ2F1Ym9VYnRBUUdqWHlKaFZBNXlkVHA1Sm91R1JkQllQMlZfTWdLWDVqTko0NkV0MlZ6R2MyS0pwZjBRZlpreHZTSDNPYVZLNnVKN095djRqSzR5Sk5YQm1zSGhTLWc1UllubkFhRENBRjhiRVVVTDUxUmdmYzNtMzduLUVfV0lQbnp4LVB6c2piVFpwOW5FVF9XRWFOX1Y1M2Zaa0pQTG02dmFEUGt3eElYTGIw0gHkAUFVX3lxTFBhMmRrblE4V0FTa29lUUR6QW5SX3hyYld3a1lzeVl2S05SMm5wdHdsMUJSai0wdUhjZ2I0NXJ2Si1RTnUzUnlGZkFJOE5walBacy1Fa2RiaUZCaDhmMTFUbmlzckVZeFQtbzEwcV9EZENTaWl0dFlmM2ZhSG56bWxlTkVFV2dMVW82ajdOUEV2bnJqaWgtWGpNX1I1dUFPSVFTNHBscHRLd2lSb0k0bUxKMHNacmk4eGxNZTdKNTlfODhGbUdvX2ZIUGxwXzJhRl9Xc3h5MF9aZUtQbnpFclhGdDVLaw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 10:33:45 GMT",
+          "source": "The Economic Times"
         }
       ]
     },
@@ -168,52 +168,52 @@
       "label": "Technology",
       "items": [
         {
-          "title": "Apple iPhone 18 Pro Max gaming test shows up to 69% less performance loss than iPhone 17 Pro Max - Notebookcheck",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbFNTb0M3aVJoVnJUd0R0R3FFaVVqdm0wdERreFgzVHFyWklpLVhRSURpMHVPM0JqREZBeFF0WnpFX1kyUW1PM1l1NHBST1YxeEc4VWdIbU1WQUwxUFZGdlp0NFJSVE1acS10YjIyc3NWazN3S2ZSNTAtSjVqZ1Btb01SbEdzczF6SmJ6dUtyR09UTlRPYnFXYmVCTVh3ZHZ3M1A4UXk3MTVlSEZROGFWc3IxeUJoNEhhc2FVcy1vUzdZUHVhZjg2SlpaNkY1dzFiTThCWjRaUQ?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 18:22:00 GMT",
-          "source": "Notebookcheck"
+          "title": "Today’s NYT Strands Hints, Answers and Help for Oct. 6, #947 - CNET",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0taUFEwQ2xzQXBreEpPbnNMU3hjYUZJd2s1WWh1M2lyclpXSFFjVTRhT3FzS3p1MllrcGcwQU9waWpyN3pCVGpqUkdyVVNSczhKWDNZeTNoTWkwUkY3bUk1OUt0Sk1MOVBJdXpMNGhuZ244aGFqMDQtQi1pbWowdlJISUw3emZFa21iWXl6WTg1VGc?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 22:52:59 GMT",
+          "source": "CNET"
         },
         {
-          "title": "Apple Makes It Tougher for AI Agents to Access Macs - PYMNTS.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjJ4VDFfWVN6NjRlMEY2NHIzR0NIeWNpMmJrUW1ZOUYxaFBkWjAyOGhVWTBpVFNqUURYUXRZamJ2RHFNbWIwaVVlczBIb0g4Q1dBVTVaNU5jWi13dUs5bGNjbDJhMFJHYTFWVXBiMHJDa1A1d3dRUERuX3lDdGJ2eF9CX0xDaDZhaFc2cEI5OA?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 00:09:25 GMT",
-          "source": "PYMNTS.com"
+          "title": "Apple to tighten Mac data access rules as AI agent concerns grow - Indian Television Dot Com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVNsUVdXMS0yRVk3X3NSbG8tVGxoNlI0b3o5dzJvODNycFZsS2w1aU43eDdpYV9jellUc3pWWEJaaDZDZ1R1bzU3bFJodkNhX0lwcl9TTkVDM1B1TnlwVXBwZHlTN3VGWmR1WDdwMzl3RjNnNWN0THV2Sk5tQWo3WW1UenIzMFllckNvbG12UXlKdWxMMF9rRG5oMVNGcktrYkduXzVR?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 08:42:16 GMT",
+          "source": "Indian Television Dot Com"
         },
         {
-          "title": "NYT Strands hints, answers for October 4, 2026 - Mashable",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81QmR0QVFnM2F4R2tVNXBPcGozNDlwa1JKcXBXeXllYWxWZEdDb2JFS3VwYk44SWlvXzh1ckFGeG9ybndJSWdfdHowWmRYdVl1aE8zYUppakk2MmFnUThoT2hkd0Q1bDZ5LUdpUEhRMTZXNEVv?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 03:20:31 GMT",
-          "source": "Mashable"
-        },
-        {
-          "title": "Amazon Great Indian Festival sale 2026: Smartphone deals and prices announced - Telangana Today",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3ZwOE41S0JYRDBLTkdoMUdjSURFU3JWMEhrYU1nS1U1Wk84YWQyNGxYV3h0RTVRUVRZQm9IWE5uV1ZrUW1oVTFTU1RRMmJKNE1FQks5YW56dTV0eUYyVUFXc0FSMDZPMEdabEpXbFRaMUtNc1lMaUNUUkdtSFM2bTlwVkZTcmRBN1JkMUtzQ0NKNGQybnJ1QUFQNnVneUFEVkIxR2NB?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 15:34:32 GMT",
-          "source": "Telangana Today"
-        },
-        {
-          "title": "Does Temple 'stick to your skin'? Can you bathe with it, swim with it? Eternal's Deepinder Goyal answers - livemint.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWE1OQ0I4Um5PMkppTE5SUEx5dTBwYmJFc09MQ0R0Q2dsbDh4bkVZazJmWW9pc2xKREtfajV1NjBXY1dCMWdQVTNhYWNic0hJNUxtajRTdHJwZmZ0U1FvT1VLU1FLYmRERDY3cnBocm1fNW9uVnFYb2tOc1hWVFp0Vk55OEI0OUwtNmtJV0N5RWRtMFVWcEluRzhSbGpRYXdrcVlDelpuYjNNbVB3U3JVY2JvTTRqZmgwc0ZyaVZLM1NuNXAxV2lsajVNS3E2SWl5Y0szc1F3RURESHJqVnFwNTI3RHVoSWs0VmfSAe8BQVVfeXFMT2g3U3NkNHhBbkFFTHJ0T25rQWF2ZVFjRjdIcmVJUVFSV19oZ0t2LW1sb0NXTERIVFZQV3lTTkI1OFlaSlIya3N6RUM3TGlCNjRpRk5oNEgxLWlJQ3JBaE9vc005MVBrblZpSUdvaG1fQ0d4XzZ4azNlbG9KeHl4OERmaGlOdS0zNER4NXduXzVCQUF0OUpLRHZDTGZjbHJ6aGRSc1VWV1I5cng2V3ktNkhHSkphbU9ndG5UWlB5bU5XZ2JMNDlfalZsbUpJemVNRzZZOHlSNGhRTEtHMXA5RjVkY1pkZi1TUEV3bzUtbEE?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:51:29 GMT",
-          "source": "livemint.com"
-        },
-        {
-          "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter' - macrumors.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTXAzZGpobTZPY2FSXzRPOFc4VTZkenhvYXBBMF9jSy10b2toUHkxQkg4VkpKSzQ2S3JTaG9GeFhMX2dWUTZsYWZ2M1JJTU91WERpaWduT3kxS19wR3U4QWpXTUpXODF5QVppakRhWEZsSzZ1bVFnMm1jUFl0R3Z3Njk4b2hUaFpaVUE?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:21:00 GMT",
-          "source": "macrumors.com"
-        },
-        {
-          "title": "I hate when Android brands copy Apple — but the iPhone Duo is the exception - Android Authority",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX3NtXzk5cmtDNlZtQnN1VmRiVVE5R19ueUZSVGw1cXYwVlBISEJWVHA5MzViRUVhMUNCNWx5MmpMQS1LZ2wtLXJ2SjhjTFN3NlVpRDNLbjRjd252QURmaXRJdWZLdE9OTERoeVZDUXh6OU9GSnhraDFVOV84X1ZIa0xrQWNHVFNHaXRKeDFPbnF2dDl3aElsNA?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 09:30:00 GMT",
-          "source": "Android Authority"
-        },
-        {
-          "title": "vivo teases the X Fold6 in India along with an MR headset - GSMArena.com news - GSMArena.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjZWdG1SRVZVTzZzSmNzUkpTRElFcF9WT0pEV0VCaGNsS290QlZ3WFhYZEtINnJiQWxFRzkzRUNpaDVRY09RZzU5MlZCV2pOR1lrZXprLTlqM2t0MHFNNFpPMTlzUFAxU3lEUmNzdmZZNjh0dlJIN0FjR2FETjZMOWFjby1ocXNJT2JLeNIBiAFBVV95cUxONEtPcWdaUHZpUWI4dFVTSXhXcWZDYTJBSUdwRGJ0bk5wVGgtdUpoNEEtTVkzdUVaT1BpbEl5OVBIeWpvTllhcWw3QXE5alFzREhoUVlQcXBvNkY2c3dSMHFPaHZXQ0VWTU9JbTZSU1VKN0d6OXpncGlvZHZfOGY1bXRySGlMYU5V?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 15:31:02 GMT",
+          "title": "Oppo F35 and F35 Pro debut with 8,000mAh batteries and 50MP selfie cameras - GSMArena.com news - GSMArena.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVV9XcHhmLVdKdGlSR0l6ZVVSdklBWVRPbFZfOXVZQi1nTU9EMXhCa2xVcUk3eUlJc0psazc4emZMUTZNSUMtYmhoS2F3T0ZWbDJPMVJ2enJfLXVKMEQtb3NYazBDUV9jbnpweUJoMWJjcWlsR05NampqVEFjY0hMalpVX21UTllPU0N6NkNlQTlrMkZpbWdmM3ptVTN6R2FiWjlSV0pQV3BFSHF3OGFsYmNySdIBrwFBVV95cUxOeHZNV1h4M2hzSk9RdTFaUDdWRnEyUTZ2TDhBVThrelkySkdlVTk3RnpFT1JpWkNYU1BlTXFpMHVjUTBTU1F1c2x1azZZTWlsOU9rV3BMMnkxOU84b0kxTVhSUk0wVzNNOUxmcjFZWnVJQWQ1MmhwZXltc01rRkRqRmxVM2d1anFSNWJIQXVSRnBReGpBYTM2MzdoVm5CVkJodVExYzRmdUU4OTF4Q1Fz?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 10:12:02 GMT",
           "source": "GSMArena.com"
+        },
+        {
+          "title": "Flipkart Big Billion Days 2026: Big Offers Announced Across Entire Realme P4 Series - Gizbot",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTzFoMGlzX1ZfMktuV040c2Fub2ZQUFlpQnduN1FnUENTb3FiekRFOGF1TkU1TTU0RENVYWNhNV84OWVFUWVQV3FIc2t1Y21BOUlhSTllQVJpOU43eXR5SElOOHpKTERMVlE1LVBmU1RIcFhDUU5VUXgtMXlGdVdEd3hNSkZtdmdac1U2M3ZETXJsMDl4YXFyZDZVTk8yemFwM25JaVpVcmY1aDdCdDc5SG01MjlCRjNYdzV2cFZhTG5jdEliQmNJblFuWk5mQQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:55:23 GMT",
+          "source": "Gizbot"
+        },
+        {
+          "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVmhVenNZMnlsVE1xVUhiTjl1Z3ZfRWwwT2Jib21mOUZ5bjlDNnlSUlhFbzZHQmZrak9GanFzSGgyWEQ3QlAySlpLekRXSmlzelBxSHFkM201QVR5MkZiMkU3Y2d6OUZqeHppeWQ2QV8xanNOam1nVFVramFPSHhNZDZKdzA1TE1JYV9QUEFtVVNaN2U3UERFN2VJN2pTZ0MzVHk5VlNJUjhGYzdKcjlrZGJqcEtaMHROcHJMR3ZlSkc1YnFDb0x1Zmc3aGk3QVZHTmV5cFV3MVFJWHFtcE5nbHFLbEFQWlk3Q1kxc3dB0gHzAUFVX3lxTE1LYnplZ2N6czZPeGpXRVExeWtVWk95WFVJdkNFUzRWN0pUUEwwbHBoOXU0clE4Mm9TQUFETG1EX2k3R3ZNcXI4cjFIUFN3S2tPclNPM0lDZ0N5eUlzQTBZY3FZbzNtdzktVWRQT25WRkFKYlNwbzdXOVNPX1d5YjhZd3p1dkstVUI1X2VSbUZiTm5VZkxfalpPX0tPMW9aLUcxOFhfamJFTGpsano4WXRUN1ZLRDFscTc3YVI4c2RIMjV6aG05aFNXeWhXSE9tOUQwOVBQOVV4clRraDdqUldxeDdQVi1OUzh5ZW53NUkyT2hMaw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 06:16:00 GMT",
+          "source": "The Times of India"
+        },
+        {
+          "title": "iPhone 17, M5 MacBook Air See Massive Discounts In Amazon, Flipkart Sales - NDTV Profit",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVU1YVUxsMm5icEdOaXJmckl3bDhkWUNYSE41emIwcVdOYjZLT3B4LTlIejYzbVJ1eHMwTF85ZnFBX2JyUFBlZVkwRWotdW5FR2o3dkRCLW9GWE0ycjZFTnl6dnlkTVBJMUdiOEg1UG95b0luZFdWd01HWm1uM0R6dnNCdm1HZUlZNEtkUm5EcVJoTFBXZkJLa0Vib29TQ1FqNWotbW5tcGRsNm4wNHpKSkhaVlR4c01FZFHSAcIBQVVfeXFMTnh0bHA5SmVnX3luUlZiRWRzVlRTQndfblNXdHpMMmlOM2JIVHZRLW5kLU5WalRuYnNfT3E4dmRzZHF4NFliOC1DQXhBZ0tyaDNlOG00elc4MXhCaHFPZzgtUldRdUI1N2NQb05zekM4LXNESmh6M2trajV4eDF1RVNTWTdRR2RWVVJvankyTXdYcXpXMnQwcWhFc2FZeHdzdjRWWkg3WHh4WHZMenNQa203N0ZCZm1TdkNTOXBQQkFjekE?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 12:49:18 GMT",
+          "source": "NDTV Profit"
+        },
+        {
+          "title": "OnePlus announces festive sale with discounts on smartphones, tablets and audio products - telanganatoday.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZW9OUzFiUldGdThRMWVDVG00QXpRbmJrb1FndHlvb0Iyd25XR3pXTXRiMFFuM21OVVdmaklndjB5WkZwdDZxN1J2QnN0Q0dkLUUyX3diUFJNSXRUQWY1bUtXSTFuaHNfd3p4SHRBd2QzNnc3SkdKYk84ZUlVVEVteUp3c2hBRldraDVwOFFjbFFuRDVZRXZvRVBTZi0zV2ZTRnNTb1licG5jUE1hTndGd1VMVjE?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 11:03:07 GMT",
+          "source": "telanganatoday.com"
+        },
+        {
+          "title": "Dreame announces deals and discounts on vacuum cleaners and lifestyle products during Amazon Great Indian... - Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOeW5ocy1MZzFUbWlSeG5nZ1RNOGVuZ2tXa01TdXlGVC10NVNMNl9jd2pkTUFXbVVNeE55Mk5VbFk2WHM2ZVlMQnV3UTY4RF8xUWlybzhZWWhzZzNRTlFDMEJZdjkxbjRZZV9hZlk3Sml1c3BHbEZtdG0xT1E4VGZSdUxsZUtPRm5sSTNoQ1NtNld2UkV6ZGxZM1FLYUU2NzdXNFdXRG5vMVdhZzhDX1Q0cVM4SURkSjZhVmdQU2xVMFhINzRhTW9SeXN4X2xBVnVPb0lqcmZVTDhpQ19LMnY2cjNqOHdvYW9UaW42dlU4eUNJY0h4OTM3U2RVUmZtdHZORlJ2LXJxNWxDNHE2Q0xCa2s3V27SAZoCQVVfeXFMTmNwQjRDZTFvZTV3ZDJmdC1XRUtoS1lCaExuU0NqR244bzZRNDRJR3AyQW9uMElmeXlUeGJkNjRacUJkaDBaZTNvdU5SMmNsOTFHaHNxX082bURHendwNkpmd3p4d19jMHAwczJ0dG11Sm11dHY3OUpNRHUwNjFpQVZabG1GLTdQU2gyWXBDV1VaT1lwQVFpcHN1YUxvWDlZZjNuUXhLdnNINDZ5RjhuWF9jLTJQdEY0M3h0Nkt1QkxqLUVfZHQ0dVdSeUZMR3ZDWHk2VmZ1dXp2R3VJUVFEdEI3UGxmU01WMGpETFZCSjNfbDZBZU1RZC1USXJPdTRJd1dOY0RGRHRxU3hFNUE3MEJhelB4Z2M2amdB?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 12:25:20 GMT",
+          "source": "Moneycontrol.com"
         }
       ]
     },
@@ -222,52 +222,52 @@
       "label": "Sports",
       "items": [
         {
-          "title": "‘I no longer have the capacity’: England pacer retires after 500-plus wickets, citing mental health - timesofindia.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUGl4Uld6Q2lRbG9SRENUbFE1Y0pHRHIxZlNGYlhkMzNqd29wbFRRSEtxZ3cya0F6WUtlV0FqQVlPd01iYW5fUmo3RlgzVTNtbUROemRyZERaOFF6d3BrUllFbm9WWjhvWE5uSHhrTkxMWVBodXVYRjdIV1NabTdxZEc0M2pTTHU0a3lJU3o1b1hjN1lIX2l6M2hKTGRRR2ZMMTlNRzNaYzVlTkR0UUN2VmZVb0VXZFZ6S3B4TldfTnMtaHRORC1NYkpGMVNkNHR4TmtPTVhFQThjWDd0Xy1ZYXpQVWNRSk9Tc29WRHVQeElFeFZyc0VvdjRPTFhlcVhIa3I3U2hDdE0?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:01:00 GMT",
-          "source": "timesofindia.indiatimes.com"
+          "title": "Asian Games 2026 Conclude in Nagoya; India Finishes 4th with 85 Medals - News On AIR",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRy1rdFgxSXdpVUI0QkVLVE1mQVA2djFZdDRic0cwRlJsTjZKTjVzQm9yNklORHFaMEFYcFlWX1ptYmNpOEtfU2NqWjhBR1pZRkxGM3ZpLUZJY3FqaFZkb1dfUTBubUk2andrY21XWVJscFQwaTlJMGwxeHdNZXI0clgyZ05YTGdBdnlTM0wxRXVvbnowa3lEbktVWQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 12:29:19 GMT",
+          "source": "News On AIR"
         },
         {
-          "title": "Asian Games 2026: India finishes fourth with 85 medals, late gold rush seals campaign - The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTJmZ193S203SFFNMXp4STVya0VvY0lNTGZHVVZRTmE3U2Q2T2o4cnY3NTZ4ZTIzSmNkNUx0emRTckZ5V2NWQm04N1hGRnZnd05zMWp4WnlIRW1ucUY0czdzTHU3SHdReFZnd3Y3VXBGNmx1eEZNSVhYeGpWbEQxYkxZbXVUWUtadmNuRGY5U3RrX2xfWWYzS3g1ZkxGZlJFa05raURtUnRXYzMwZlppZDFKNXlINUlGZW1TMGM5czhSQ3lqM1d1RlpjN1XSAdMBQVVfeXFMTlhMYTA4U1ptZ3o0RWtBaThHdHVXUEtrZU9ZdVluaE1OTHhlZWpQem95QWpXRVZIM2pfeHhQMk1VZld0eVBfSDZsdnh2b09IWWVOZFRGZ19Za0kzRXRBUWhDd1FydV9WWGtNVFdDQVFjSVE4X1NfU3hlRGpMbzJqMURLNElVOElpUk9pZzMwQ0dHcng0aEx5NFcwYnd0ZXlOWFRTRGkwdEt4NTI2VlpiNDJ4VDM1VTBnOUlZdXpYanZBNjBKSHJLeTFtelpjNVd4dXJfVQ?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 03:44:13 GMT",
-          "source": "The Hindu"
+          "title": "India tour of New Zealand: Exposure for Test regulars to highlight selection meeting - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjdrUFVzT3dYcVJNWFo1WHlKZGtyV1BTc2FjVXhERHVISmdWZkFRRkM4c1pZUDBhTFF1ZlJXbFEtZWJweDRGdFdZWUo2Ni0zT0lYZm5reGt1aFY5NVBHSHBhb1FPZkhrU243TW5OTmliRXAzLTFkLW5HM3lUR0pJX1V3ai1GZTZRSFJKNTZmNUlLbHBqVjdRR19rODVKZTJXRUYxUllkZkpuYWlXOWYyV0hsOXNiZXFGaV9HNVpEb2gtR2FmZWY4WnVhWmlOR0MyYUk4WHdyTnVSUXhqVkY3X2ZXa0pjTjZ5ZWpDRm9QbGRVejNEaVZWVA?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 08:20:00 GMT",
+          "source": "The Times of India"
         },
         {
-          "title": "India vs Brazil football 2026: Blue Tigers fall 4-0 as Canarinho sing in Kolkata friendly - olympics.com",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlo2SDYwSkxJOWlCS3VQc0xYZXZHUjlMYWdUQ1lYWE4zRUIweGEwZmp5QmdCRHJMakhDbGVJb2R0SExEUExNaldpOVNSY3V6N1ZxMUo1UnZ1Q3lZU2NybENxQUwwWVduRlVsY21kMzZHajF6YklYT3BtX01BYkpNSWUzeG1xc3N2Rno0MA?oc=5",
-          "pubDate": "Sat, 03 Oct 2026 16:25:00 GMT",
+          "title": "Baloda six-for bundles Australia Under-19 out cheaply on first day - Cricinfo",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeUV4Z09aNUU4RU1Xb3VNbmo3QVhXckRSdUFhaWoxck91UklHeGhHNS14V0FVTTg2eVJnYWpvRkpPWklFY25IdXVvR09DWDRqbnZHeTJNU1R0VXdyRHRRamcwWmtSMzVyYmhEQl8xaXdSblJiUW1DSzdFTmFqZWJCMVB6Qi0tM1pVbGxzRlRwcnlsYXFtZ3U0dFh1OGN4Y2ZHVEUyblFnc0tzQVZfVWtJTnJFazF1RTlEN2R1UzNULVFYTzBqUEszcldsTVp6YWU3Ny1CVHhfSjctbVVPaEpsOUNZMVlQZw?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 19:19:46 GMT",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "Sahibzada Farhan replaces Salman Ali Agha as Pakistan's T20I captain - Cricinfo",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnJ6NkhJN1FFenJwZ2ZRQlZFY1VmNU9sX2NwN0NTVDMtejhuYjVjV3ZhNHd1VnVwamxBLUctM2R6WFE3R2lJOHZ5LU9OVUExVmdFd2Y1VnhDUGNKck82TzNibW1PWWFobXR5LWxjUlZUbUFFaXNPUnRLUThCSjNhTUpiTEVIZjlfYm9YOEpHLVVJa0luSWdtallrd0w1T2k3RFh3RVpIVHdkY2vSAbwBQVVfeXFMUExxVlBnSUxaR3A0SEN0eVg2VzNRd1ZLdXdSMHVTWDg5UXE0SUFOYzJjN0NaSkNUekJqRFlJY25wc0o3YzFIQUNjeENwNnFjLVZYdVUwSGJ2N1BQcXdPMS1HcnhKUzNnZTdXWUNIYUFIRHRZRWdYYzV4S0NnRDBNSDFEUG56WG5ZQ1gtYTkwaWNQX21mS0xRampqdXFtel9Rc0VUbGFzQllqd3M3aWFNZzBnMGtOdE5jZnhnbkM?oc=5",
+          "pubDate": "Tue, 06 Oct 2026 02:49:41 GMT",
+          "source": "Cricinfo"
+        },
+        {
+          "title": "India vs Uruguay football 2026: Know where to watch IND vs URU friendly live streaming and telecast - olympics.com",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2VnLXF0dFBoUUplbXlBUWtDYW9yOEhtNXgzQ1F5NkJ0UXA5dGgxZHpEb3FaOXlDa2hyUlNyVjZtVUl3TDl5WGRhem0ycllaaTgyOS1MY0t2ZlU3NTh5RUR1amNjQjhuNjJ1SWMyOGhZd3hQMkQ2V0RDNWx0LUlrc3hMNXZZYWV0c09iSW91cFlTRU5JaklaeklTOHVMaktnTzFkd1NFbWp0aVRLbkxVSQ?oc=5",
+          "pubDate": "Mon, 05 Oct 2026 13:59:00 GMT",
           "source": "olympics.com"
         },
         {
-          "title": "Asian Games 2026: PM Modi congratulates Team India, hails ‘determination, passion and remarkable sporting - timesofindia.indiatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZTN0NGpGZEtQeTh6a1BPWTUzZVpDVkhvWTl0d2lfckFNQ1dCV1lFa1pPMXdhcVB3M29wd2pWbTFtbTNQdEhNbFJ2dS11ZEo4N2hMSVhDZ05OOWt4WnlLTHlNS1p6UHUyajZwWUk0UTZWY1o0X3JWamY1bXk1aXZjZDEwQlRuTWdhdFp0QktsWVhZamRQV25tOG81dnNCLTRCRHJaS2w2enU5Y3IxUWo1dFREVHF0UnpfcEYtVnFNM0hrSmRuUjNqWkNfbzRieW4zOGh6VkhmRWRmQnFiTWlOdUtWcF95RXdpY3p2OHZfTy1qVTlPbTFqU1dhSDNTbGk3ME55OTgyTjdtWm9GZ3FzOFRrcnBIMU1CRERTMDV6Zw?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 16:23:00 GMT",
-          "source": "timesofindia.indiatimes.com"
+          "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeVJTVzFQZ21tcGhPU1pzNWpoNzRlbXFzaEExcWNMclJRa04wZlRZTjFOWTZCbmNzVmNINjRwZjNfYjBYMk8ySzZtd21wdFplUl90MVA4N1NuSGdacktGOTY1dDI4Sk5hT3d2eU5XMG5fcFFPQ3ZjQ0ROUUtIdEI0b3NqMHRnZ3QxX0NZcEU4eUROTFE3S1FqdGNhb0hDQm5QVFFHaFdCY29EcDlOeHQ4MNIBtgFBVV95cUxNQUxnVmZZR0tYVlYtWE1yWGhIU0k3X0lQbExuNU0xRWNEV0VfNU5qR0plaUFYdmJ5MWY5ZlJFemdqTDhEenZwY09SUDFiU1g0MnQyTTU5TFlxUXg0d2k5N0NEd2xGZEtSVDhabDBFYkNHSHp5Q3prbGtBVjlvZU9xcGM1cWkyVmx0dmNnRGVsUG9zY3UxTHoyTmF6anU4V2JNTk5Rb3hjMTRZZjVxV2dVTmxXanphdw?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 23:24:45 GMT",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "World Championship of Legends 2026: England Champions vs Bangladesh Champions match 6 predictions - Cricket World",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRTZnLWNWSXdzYjVQbXc1TGk3YmVzSkdWNnFVcy1LUkI4Z0owUHlJWmpaUVQxcUxhT2cyR1FCRHRiRFVhcG1LU20yUTVZandsTlFiWHdpNk5fTE1fQU9GMDdnZVdLSGg4RVV1czdBY0QwalVHUVNIeG9IYy1TcG5vazJrX21RRkdMMGc5eW4za09tQmlBOE9sTTJSSHpET2J5cDdRV24xMHl6aDBVWGpORUtDUUUyandEOXYtNlF1WC1jazNCS1JXSWttcE1tWGhqYkE?oc=5",
+          "pubDate": "Sun, 04 Oct 2026 18:29:45 GMT",
+          "source": "Cricket World"
         },
         {
           "title": "World Championship of Legends 2026: South Africa vs West Indies and India vs England prediction - Cricket World",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzJkQ1VoUkFMdE1VamlLR2RVTl9fTGZIUlFTajA3Mk8xYkt3Q3V5NmlzWXF5NjZxY09kcTVUM2YzanppdFNqMUlpQXNMd2xvemFSdHNfeWdVc2N5YVItLXVDWDJ1MnAzUW1nWTRZcXZFSWQ1TkdnQ1JnMTBDTVZwdm9wb040VVJiM0Z2OTE2MWlzbTFHSlRVRHJ5VnVITUpna0J6RXVlWDc1OGJIaDVTYWxJUVBmam9VOHBuMDVHVXRuRXVsWTcwX0pIcWhhOTQ?oc=5",
-          "pubDate": "Mon, 05 Oct 2026 01:35:32 GMT",
+          "pubDate": "Sun, 04 Oct 2026 07:04:38 GMT",
           "source": "Cricket World"
-        },
-        {
-          "title": "India-Pakistan men's cricket final and hockey semi-final become most-viewed in Asian Games' history | Hindustan Times - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTnNDbGJnanhWcUlBbnUta1J4M3hHNVFpc0NDTE5LRi04WmVMTVg3R3RvREFvSVFPMzUyY3luRWJoc2RNSFdGRl9hWTAyTzh3UGFVMEhzYmhqZFdTdEZjS3ZBNUF4ZzJKZ2dwZEIzbUlvcU1jUFppUGRtTExpc0ZEM3Rwb2Rxam9RSlhwRXg5SFpvdk1KTzZnVlNVZ2R1Sk4wbW50bVlEY3puME9ZRXFlMFRxMXZ6c3NOdlNXS2Z2Rll4Unp5aUpKSVJCanRFVEpZVTNndExaUEFvWjBCSkY3RVloVWRqRlVMSUtVR0ZyZVp0RVRS0gH6AUFVX3lxTE9jQVBHOHhOa2wtSURxVHdYb0hRRE9VYjlBeno1MnNkbjc5SzNpYTU5RFg5NFQ5cHNLUVNPLXJiSGpBa0lqTm1lblVNN0JoU1VIUnVYVGNGeF9fS0RYZzhEc3RlZjNBOGl2LWdIak9LTmN4dEoyTGc5VkxIcWVja2xZVmZpTmYtTFp5ampBZC1mTGZIdUtCd204SEdmNmlQNFpvSHUxclpwRzllOHhNbWNxeVFfVGg5dEFXcXJOcFZiSmE1UlFoU09MaFU3NnZhU0M5NzVqUmRHa2o1NkhKZlRUbU1RSWdvYTBlMzJjVmpzdFp0bjVvbXhHQ0E?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 15:35:29 GMT",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "India Champions vs England Champions Live Streaming: When And Where To Watch WCL 2026 Match - ndtvprofit.com",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakFVUVluYmo5Zkx2NThvTWdzU21uWm5seS1CM085WGxWcVBSQWVoTkdRTWdUdEJOTmNfa0hNaXQwaHVOdlB3b09jX2dhYk5ULWNIVzVoN3FQMGt2UXhaN1pfQUgwNTY1U1hZX2RobFl2SGpYRmhjRTlXUjhMamVSRDY5aEt6c2lXSWpoNWUtQzRodTEzSlE1WG5vSUZXV084c21VSm9YMkNGZk1RR0s5OWlzS09CVG16TGfSAcIBQVVfeXFMTVZXMzVCVG9abGpYNklWcTNvY0k5NWdqdE1UYTFTM2VTbWRlRk9MRGhwTmg3ZlNPeGE4NGJoOFZLMVo5WnZweHZ0WjFidnpSTy03S1k3YTZsNVhBRHpvRGI4MzVVVTBPZjdyRWhzRWhZUWdxYVI1aW1CVW1iTElGbUpIWmVRaWMzZGRRRFpHQzFxQkRJNktHTTY1aTNxWV85YS1SeGp5NlVSNkRHNlZ6clM5eXNfeGs5QVlCanlfMHNjS0E?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 11:54:33 GMT",
-          "source": "ndtvprofit.com"
-        },
-        {
-          "title": "West Indies beat India in record chase as Hope hits 162 in third ODI - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTJ4cS0zRlVVVi0xaUpWTEZrRW5OZ3BlMlV4NEd0dXltVmVUZXJicTROejUzZTRRRDVnazU4NS1fSllXN2Y0R0owcFhnalFudm40ajVCT1VzeWlFWXpDVEEyMW9PdXRkdEJrMWxqMlk3QnNMOURna0dZRmtCX0hSZncwWjZoc2pCUWU0bVN5RFItaEk3aExubkRaUTNYZU1wNFgtc2daaDA1VHJxbWk00gG0AUFVX3lxTE5WYlVzUzBpY1JXdVhvcDdlc0V2d1RaRTQ3X0NFUFhPNTYyX19jV3Q1Y21ZamZkalJOX2R1ek1vZDFDbTJ4MHJ3TDhNdkw5LVhjQnNVWDlFRXIzUkVaTWRMSnplczFSc0o1MUNoVWg0UUZlejlFYkFpQmJraWdsUWxUZjBldnZfV21nU2hfd0pUZmRPa3dqbjhqR2xLdWRxblk1Q3RxQUZfQjFud19sNnc5RTZLRg?oc=5",
-          "pubDate": "Sun, 04 Oct 2026 19:57:33 GMT",
-          "source": "Al Jazeera"
         }
       ]
     }
