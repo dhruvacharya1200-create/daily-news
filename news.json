@@ -1,275 +1,30 @@
 {
-  "updatedAt": "2026-11-10T11:29:10.678Z",
+  "updatedAt": "2026-11-11T11:18:55.530Z",
   "sections": [
     {
       "key": "india",
       "label": "India",
-      "items": [
-        {
-          "title": "Grenades, grief and a deepening political divide: five takeaways from Sonia Gandhi’s new memoir - The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWQ1Q2dPZzZJblBTeGFFRXYyelQ2YWlkdnFCb1BXVjR0RWN0Uk9vZmtiTkMxaHEzZU9mLTFGbVctNW85cGg1V1FqTTd6ck1oYTROMlk2VjlCdUlkU3ZkVWZfdEs1T3FJX1dWdHZjay0zWklfSzhoZlI5Q0tEQlZETkRqYk9hZFhIM2s4NUg2SnhORG8?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 09:18:00 GMT",
-          "source": "The Guardian"
-        },
-        {
-          "title": "From Sikkim to Saudi Arabia: Where Union ministers were on Diwali as Delhi’s air worsened - Telegraph India",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd19VSHM3Zl9zUkFPZWJLVVZpWlF2TVB1ZTFFMUlHUERBS0hWZzVLeDNOLURzeFlWelFmQjh2ckYzMDhwVmxKYW1qdlhGTWtIQm1QWnZudjJsSHozRmE0SmxOZS1DRW9pQjF5VU1tcW1GcjBUdFhhMEtYVFlvUVBsb0lnRk44RzJJdEZlalZ1SXphekxlb3VCMm5IZy02TkM2X1ZwRDdnTjJMZEtUV3ZENFhvd280R1N0X3diV2VzYk1NeHAzM3BVdjF5cUN4dmFWY0E?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 11:18:52 GMT",
-          "source": "Telegraph India"
-        },
-        {
-          "title": "Nagaland: Oxford museum returns ancestral Naga skulls to India - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oZTlLcVB0MmxqemdTbWVKSWxEZ0xFVnlpTGJtanZEZnlFVW9mZXhsTmUzeFhGR05oQ1JDbGRjd1daRWQ0WFBSTXpxZ042bEFxdmJWazY3SEcyS0U?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:23:42 GMT",
-          "source": "BBC"
-        },
-        {
-          "title": "Punjab records 4,657 stubble-burning cases till Nov 9; 1,442 FIRs registered, Rs 7.28 crore fines imposed - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNa1ZpN25SazNDWGYtcHhJNDdFaUVzNm52WUZQQjZ6Zm1FNTVEX190dk41NFdoZDd5UENaWWdCbU5UYkNGRjRMVkJjMnYweEp0eXRnRTVWaHZHem14YktwR2tIbFRsWHhtbXV4dThmNWNmLTFiX282YmVFc3c2Nlg5RFpxbnJqXzVidVE1NklYRjVSMEhsRTBGdUVlalhBUFZLWmlGeTUwMFdoOTNQRVRYNFo0LVlHR0VybEoxTElDelBESjF2UDU3WndWM1FNYUYyRlFwN0lWRVFUeWlPYU9ORm10bG00dmRZMnpNVFJzZ1dtcDh4RG5lcTdoZW96Wl9pMjN6VkxndFo0LUk?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:16:00 GMT",
-          "source": "The Times of India"
-        },
-        {
-          "title": "'Was Sizing Up Women At Reception': Sonia Gandhi Recalls Bill Clinton's Visit - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa1BaVGx1WENEZl8wX2xuMmpMd1pkT2Rlak5pME9fYkstMmJHZU14QWZtWHpjT1JXRFdKN0MwQ29Zd1VBMzFnUzZ5Nms0c1NyLXVJUi12X1p6YXBETlpXNFNDZ3hwWXNjUlJDc1RfaU9sbzg1UEFEc0tackpsVEt1VjVXdUVYcXc2bm5kYkFFYjlLTzctZUxPV1RxSElFa2JETWduUmVscURUaWVuZnJfZGJaYzkyb0hkMWdOOWVtNjZsWTFZVDZQbkRqc092RzlyeHF0eGRHZkJETlB6djkyVG5QQWJETHdNeXBHWUpEZUFZd9IB-gFBVV95cUxQS3loRlh6SE44R1ZqUnN3eVJlZEQyMm9hTi1oUWdnZzRXQks3Q3U2WmVyemUxZ2ptUEdEYVNVSmZFczFMbmt6WkRDa0ZrRFhFWkp2UVVKaTVRZmVOMXVDS3E0X0ZnRzhldGYzMzc4cXhhSURzcUM1MEdsT29zakw3MFlfNUV3SEttdDRZZE5CSFJMTUlTdFA5MGJKR0NGSFFKdHVKMW5oZDdrWXQ3QlFQdDY0Vk9vSEVWV19abC1sM19OdHA1SFpob3Y3emdtQkh6QUwtMndSM0ZTby0tNW9fSDFYRkRfLUlralZ5RzlaMTJKcHdOejBTWnhn?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:54:32 GMT",
-          "source": "NDTV"
-        },
-        {
-          "title": "Pannun’s civil lawsuit: U.S. State department formally serves notice to India - The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOR19YVE5nYkxSekoxX2xLbmNUR0laSV9Uc0g1ZGE3ZnczcG5MRHliSnFVWEU1RUN2MHhBOVdrMU9KQmlVZ3RaY2VfMEM3cHRlX0toLVk4YjRPLVo0SWxTS1YtVXJfWVd3dHJtUjRQRWMwUEhJZWpOYWhwR3ExR2RIV1ZxQXFfSEh3WFN0M3FJbUZqSjgwS2ltdFZKM0FvUGlEZ2ZWNjhrelpRSEJzdlhnTjdRRWk4bEVDRkhWU0ZXUEZUa3VqSUtHYkhzUjg5UF90OGtB0gHaAUFVX3lxTE5yZTFFaGt0VHRHVVNCWWY5dmFlcDFPbk9TaDQ4UTFKZU9VZXExbk9xM1VPVzY1RDZkUGNycDJNZWZ5cE9odUFGVktmRUJKZ0tUd0pxSWk0S3BXdi1SemtuUXk0LV9PeU81Y3JsYW9CQTljZ21SVTl3cE9lalJTWkhrcmIxTXRuOXhURGQtVXVxR3owSjh3ekF6ZXZxNGJiNUlrUmtQRTZuUUNiQ3pyYmZJTHA1VGsySF9FMkdONzZDc1lCYWp1WWMxcnpPdjRhaktNcjVfaVZlRl9n?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:27:11 GMT",
-          "source": "The Hindu"
-        },
-        {
-          "title": "Indian Student, 21, Got Flat Tyre On Dubai Road. Speeding Car Killed Her - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzZJSFdjRHFRWkdxVS1zY1o5dWxueWFHVkowQkc3RUo0elVxWWtjQ25kUF8yanJVNFAxOEhPZWEyczNQMll0cmxnOU9MeHJNWkpXY09FVnhWZU5iRG9GT0hwcS00cHg0SVhQZDBiM1FELUNBOWFnbHZxdlQtQy14Y0JhWHM2U1lwcVdoN1N6UVI5YndYRHJfbm5RVEt6eERheU9ndWZKY1J3OHVVb3BF0gG3AUFVX3lxTFBicjFBd21QS1pWWkVjZVBVemxFMlo5UnR2TE5Qclo0V20wOTRFaGJHcEprb3h3MlRiOWdEbXowT1JqeDllYU9JZHNqZGMyeGdNdm9ZMGpzNGdqWllZbG9xODVLeW1XYWw5Y1NfZnVPcWRxU08wQnB2MWVLWG9wU1hGNm5aY2Joa0h2YWtLYzZlTV9GZExvN2NNUUVZTlZEQ2J3eGM3TVk2alAxa0ozRlJQcHVpQnM1UQ?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 04:44:44 GMT",
-          "source": "NDTV"
-        },
-        {
-          "title": "India ready to set up food corridor through Black Sea, says Zelenskyy after call with Modi - ThePrint",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2d5MGhzb3hHOFRlcURsXzlUeEZtTWRTSlVrVWxKdl9nT3ZPNmkwNWdFMk92em5WYlN5d21Sb3huQjVaemRjazYyUjNXNm85UklVbll0VFdKM0U4TW5yVG9JMmIzaXlyODhDRjRBVEptUmFGelRoQV9adHJQeGhSOWluQzdhNV9MSDRMV2x6blR4THdMYXo1N0h2V2N0WnFhSWhSVWlLSHVWVlFPdEtnMTFtTHBVeENrWTBvQ3dYelJONDlSaFNB0gHMAUFVX3lxTFBNcW45dm1DeC1rRzBJM19DeXNSWlZNMmYxejNCZVRmNnZkQWRwRDB4a2tiam14Q1ZFQVdjTkI1OFlmRTg0RWpQVXFpdVUxNVYxR0dHdEhma3I3NUxfS2ZIbjZ2VTlzSmNGQzdwUmN1UTZ2eW5XQURCTUdVcEltbksxUU5odTBDMzExbHJNVzloLUNDYmRRX29CempiQ016b0dsOE9fSVRYaVdweHJ2Ri1yVHVnNTZQMG5sY3g5NkQ5UlhDYU9fZk5YanQ4ag?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 15:20:14 GMT",
-          "source": "ThePrint"
-        }
-      ]
+      "items": []
     },
     {
       "key": "world",
       "label": "World",
-      "items": [
-        {
-          "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect? - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFFFNGNPMEZ3M2VBX0owQ0ZnMXZXTU5qVTVOYW93a1Z4cVBvc2cwMTJPOF9UOGxFeExEamlKSzhFOGV6ZnkybHVEZXZCd2F5bjZ1VEs3WmhNVGcwN09jYnZNcENuYV9lVEsxVTlnU0JBNVBkTi1YNjNOZ1dRX1hoVS1DMklTak16YUNJOHpPYzhPTzJQVmVOZ1Qwb0nSAZwBQVVfeXFMUGFWcFhzaVlUZk5EV0hNTlZ1aFp3NHVHOHZVT1hSalYtajVybDlYVzI0OUJuR2tDcEhuOHcxWUVoQWJoWXRmNldUSGZ2a3BYVi1QdkxQcGpKSVQ3eWF1NHQ5S1d3eEVJb0pjUFhjNk12RXFqVzVmd0ZIeVFRcnZYNEhmRjUyRktfUUxrQ2RPZDllR0FZdWxiYlBObVd0?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 05:55:02 GMT",
-          "source": "DW.com"
-        },
-        {
-          "title": "\"Sick Guy\": Trump Slams Republican Colleague Over 'Impeach Hegseth' Call - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTXF1VzJLTUxKYXpkal9BanRoTUU1c0NCLTk4XzBTTkRxbW5OaUgwLXEwRUstTlB4Zm9JdWYzT2U3YzJsQ0Zydm9oNVZRWVVLcHpNbWxOajZsTHRET29kS0ZsRWdhd3A2R1laSzNDbC1zNE9zN2x6UEVLX2RHdTVrdjdLVS1Ec21UemhwaTEyVVdvTGFOTml2TE9LZ0ZqQklTdUhIaDBsdGF0Y0hwbDRwdFdoYlJFeFE?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 02:00:43 GMT",
-          "source": "NDTV"
-        },
-        {
-          "title": "Eisenkot reaches agreement with Opposition leaders on Israel’s Knesset posts, names Matan Kahana as speaker | World News - Hindustan Times",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSEhnc1hGR0g3aUhOYnV4RFlkYXJ4cW5oN2hleFFyV0xuU0NxSEVsNDYzVUJxdDcxTjFqbEloZGdXTG5WUEhxMHdUVkotMjRubklMVXV4RGo2WExMRzUtT25RTmRNTFRVMGpvWHlndDdoZmIxaFNwMGVtdXo0aGM0YXdMTmNsOW05V1JZcmNoTl9pZHlKSnV1OEF0eTZSYm8xUy1lRTNLS215dWhIcmJGY3FQRnlVUVk0RGZWLVc0QzFPT29Cclh3SnBqdjdoVm9HNEpybmQ3SzMwY3R1cjFQLW00bk80bWs3bF9zLV9NdGVGQ0lpX1ZkOUgwUGFrZ9IBgwJBVV95cUxOVGptMUxoaWpLaEdFSzZIRmZiVktTNnBtUXNSd29VX3prMkJRUVFzODVyVkM1Tldhbm41czR6eTAxaVFQSWxqcmdGZ09vNUpkWUZoUVVia05PR2V1bW5DYmZIbDJRMDFIYlJqZEtZTm1XV2daQ3F6MU5nSnRCQzlzWDY5d09YamplZVY3THlKd2d0b19aM0tyVkw3ZXNhNy0wX1ZZNzZFaTNzdmZRcnQ0TU5YRFlSY2txNk9HZ09WbXk0bVpFbERHS3hiNmw0U3dRVGlQMXQxS2M5NjIyYWpBYmdvXy0zeDVvTGthdlVyTllCUU9vNUV0Sl8xaW1CUmdfMzdz?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:57:29 GMT",
-          "source": "Hindustan Times"
-        },
-        {
-          "title": "COP31 is starting in Turkey. What's on the agenda? - DW.com",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeXBNLVdLdHRMcldpYVpCLWsya2wzYXdza2tNbTVBT3QzZXhJbVl6TFpTSHE0UElHRXExUmdwQ3ZjazZoTEktUzdvMXVYNkgySTYtYjFhTzFFcVBPbS1uY0Z0bHJyclg5VjlSNFlNY1hMZVJ4ZkhKdTNZcjNySjZOaVNia0xzdmdDb3o1RFg5Ri12ektJeEpDRmFR0gGaAUFVX3lxTE1YR0xvSk45TDE1SDdHc1ZkeHZJNElTTGdRaUpuMVMwWEM4ZExkcUR3akFXaGRkTE5EbnRrdkhWUkdGeGdoeFhMaUo3WnBBZGltZTA1b2xadFhZNWxIbU1ZOGx0SFBURnBKdXcxbDlxTUJNVlhWVVNlWHFTOFJteFN2VzJHQ0w3VDl4eVNGUEx3SG8tbXZMbGtNV2c?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 05:56:53 GMT",
-          "source": "DW.com"
-        },
-        {
-          "title": "Netanyahu's daily calls to Trump over Iran war spark pushback within White House: Report - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZmQyTGZoZ2pwM3RtVmFfRWh4a0xXcmQxZWtia1ZJVWFKZHN6LWIzaV82NDlzNW5MVmtQN21MdTVMUnVQTFQyS3hpWnlKZzdHQ1dGSjVjNDM5SmpUdkdnbzFCU3lWUF8zeGZzblJpR3dKYVNKTlZCQndzUHhhb2xvT1ExaGtMaDRzWHR5Y2xWSlY4Uk9FXzgxZFFaNDhSOVVMdXIwZDJJY2h1V1hiMUJPWVlORkh2TElvMVRaVHNvSlZ3dU5kOUx1ZFU5T1FqUmtmdDRtNDc0SGNQRXJzR09SNEtMUUpfUTRwRUZ4dVBB?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:04:00 GMT",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Iran says two-day proposal is 'most reasonable' offer to revive peace talks with US - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM2dOUjZ3amxuX3BpZVhHLVF3NnRkeGRBeW93Wk1GUTM3WEZRSnJURzlKcVVfdC16MW1ON19HUTBWUkNFeVNhZl85S2tiSUZaaDJFMmU5eDVKckFyVzRnVUxobnhCMUdjcTU5Sm9EZGRkUGlFampzSm1mcDJpMFUzSHBlTnVUV2lWSmlJUzlZdlRNOUkwUGY5TVFOV1VlNUF6LXRCeU9udkg4VjNKeE16QnpJc1luRE9PbERKWThSa0ZRUzU3QXJMd3gyTW95MndBM3FXZdIB2gFBVV95cUxPYUU1U01rZm9TaFZJLTFXSXc3dC1fZ28yUlFtOERGZjRNaFEwbGtzc1lEQ29rOExVaDRQdGJnQnZGNXZvVnlGaFdOVzRQXzc5R001bGZmeUozS05mcEpmVktZNzdwbFVBUmJIbHBweWJ2ZVA5Y0txeHZYcXk4LWxjbDJDeGJQOXI0ZnlCQWxic19ucUJMdTlFVUpQQVl5dG1KdzF2SWYwbDhvb3NjV256UWdZd2NGTHptUnlYSzZpMzdrSENObWtfTk1kclg5MlVXdTN0amE4ZlpNUQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 09:34:04 GMT",
-          "source": "Moneycontrol.com"
-        },
-        {
-          "title": "Israel's Gadi Eisenkot gets mandate to form government. There's a minefield ahead - India Today",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNnFJSFdBbDl5c0VDREZfZ1BIYzFTeW0zdU90QkpwcUdBRzdoVmtVOTBQVnVQVFBRMkdVd1dMcHc5TEN5VkZ1UFlLbVZUSm1PZ0xaTzc0Q3BRTFZqaFY3UUxMdFdDb2lOOEVOTEdrUWtGa0YyekowNjZQTXVybjBLUWxlanJhVEVNblhMVXhGczdkdHUyZjlFZEhZaXVhZHN1OFplaThObDk2V00yNDNnR3VXZXF1MEFVNEs1S2lkXzQ5dHBabjM4dFhfbGJjbGdaM2hEVTJyeDFtUdIB3wFBVV95cUxQYkIwT0h3Ny1TMUxnZ3lveEFpWEUxYlRzdC1lWUpLOWY4Rl9acE9pdFBYQWN2b3AxUHAwNkg4ZVJQQy1SZlZhREpPTmJhV0hNcHJZVmd1LXM4eXJxWS0wZElfWEhOWHNBWTlMWnZnRzdlZWdYcm1iUHlUdWxTS0JsRmtVWkpkcDNLSmlrdjJ5VzhzWFNwTEE5NW9QU3g0OHFJUTBIdl9DOThrVjQxa01ndWlJc1pCQlc5ZTRZWlIzSl83R1lHNmc5WHNabjQwUVVMRThHRWJPd0kwbFpzZ0NV?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 02:30:00 GMT",
-          "source": "India Today"
-        },
-        {
-          "title": "Trump says U.S. military action against Iran not necessary ‘at this point’ - The Hindu",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2lMRXh6QmpRczBaem1wZHdBRndlbms1STJ5aEUyYjl4dEV2QzdqczVDeXM4T2RvNzRscDhYMzFXYld5Z0RfQzI2MTY0X2JzdTE0UVh3elZxV2tsNGZtM1pJeENaYW5reVNHUldRYTFUdjNETjAxaTBZQ3c1aWhMYlZ1ZXlfb2VjY0lJTnlvSzBRWms1R0tEaVJxTFNkV1R6ZnEwRUhBdDdWT015Z1NTb1BfMNIBugFBVV95cUxON2VPTUZpWE9pZjFjak1kbHQ1XzVwVHlYWXN4UjFBTVlwZjczR0I0eEZ5ekM0b1hzNXVNNWliTzhYNnJTektaYkFGaWlwRkl4YjhXcm02d24ySm1tQXY5OTJlMXR6cUtkSUYtMHo2ZGJieEgtR0dwLURWbkdkUmo3NXR4VnJSYzF1eEpJbnRZb3hhNko4MWFkWWJtYUVSX3pzcmZ4MzRNdG9tUzQ2Z0lxa3ZMNWlwWE9jSGc?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 22:14:38 GMT",
-          "source": "The Hindu"
-        }
-      ]
+      "items": []
     },
     {
       "key": "business",
       "label": "Business",
-      "items": [
-        {
-          "title": "Trump Asked Nvidia CEO If He Knew Alice Huang Was A Spy. His Reply - NDTV",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZE1MLWwzMERlLTBVZWFNbWVNUXdySzh5NUxPd19uU2VwN0locnpFLW1RZEZhVVg2Q1lhSy01ZTVESU8zTHlPYTA0MWpWbUVmTjVkV2I2ZWVRTW9SREtSRHFfRkRvZmZ1VUpWZFQxT1hVNExfTTZUdU5yUEphUlEwSWNZdHZmc0pDcWpTNlFPMnZPZWdEZTJqRmZ3VUVNeklPQ0tqUExySzJaMFEyZU9UdXBOdG1tSF91bk1XV1ZfU1h6Q1pOZzFkSWtBYkRMQnFNanJjWWczWdIB3wFBVV95cUxOVVFTeTRJT0xZajhNbDdvcmlGV2pmV0poM0d5cFZfRENVeE90bnE5ZEdicENrNUszNnU2dzkwZTVYdUpLS0JrRmhYRG9RMGMxczh5TGt1YlI3SzdkTTI4bGx4cldzY0JNWFpJLXNwcngyWVlmQlQ4aVBOWTF6MUhPVGVfUFpUdWRZNFA4Y3dzd09JSW94UG10TUI0NW0wWGd3SXFGY0FTX3VpNkZfLTU4cHlYc3dITkc0NkVYREk2NlNSQmFwVkRjakxyeGJPT0tOWVUwdy1pbVpsZVVEV3dz?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 02:14:20 GMT",
-          "source": "NDTV"
-        },
-        {
-          "title": "MRF Q2 net profit falls 28% to Rs 369 crore on higher raw material costs; revenue rises 18% - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb0RyR3ZybjNrS2k1UnNCS0xKendSZ1RlWlFESGUwTkpjY2loUTMtdUpuSkpmaExMakxxOHQ5NVJjTUhUMmdYeEVISURXb2ppVFFPM05VLVFORFprdFRhYnBaMUUwYlBqbDltLWp2RFZJc0JJRFRNSk4wWW1fMmtBMU5xX2dxRTE4dTdYY1Y3MTZuTDh2ejgxcnBhdTRCS3VCSXVNR3Z5Y0p0Mmlya3pOdWRwVWJ1ang5QmZ1V3A5SElyYzJIMkRFYVpwQmJ6NzBlRzdmdUVKR2lmTm5VRXBYZF9OaXNtUGRPQUxNcUQxONIB9AFBVV95cUxPU3pVc3hBYTUzLTNCVTI1MW1ENExpWmEzdGh1Qk5WWlNjV3lnTkY5MWZVZHJ4aEJkdG5SSkJOYTBxR21WU3NMNk1laExHTEh0d2FnM3JQYU1lMzdOdmJ6UE9OT2VNLUNXdkxjeURjMVRMZ3FEdUFrNGhKdzNWX2pqRVVSVjIwbUNmMDFYajdFTlo0QTZndng3LUdlSmUxNE5rUERZZnoxZjRBd2xBSE55eldGekJJT0s0b29qaUVPSFVnc3diMkxGNWVmTWVSVEV4TUhvNkVCc3NZZnBRUzBhNWltVFNuRng0SzJfLWp2Vk5wWWFP?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:09:30 GMT",
-          "source": "Moneycontrol.com"
-        },
-        {
-          "title": "Force Traveller EV Launch In Q1 2027 - Rs 3,000 Cr Investment - RushLane",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMkkzYWVaWE5ienk2YVlCT3RpQVVtVXVHd0hFM0JibkctSkNFSVpRUnZUVmN2WmhoaUgybERsWG5sb2FNQXZvQ3pqUVNaRktJeWJyU0lNRUl4Z3ZiV2RibndONU9ueEVTcmpwbGZBLVJZTmZ3NEZXVkhRS2FkSUVOZkk0OVRodFJqak8tMF81R0pSUF9UdmRRb3dCVTc4UdIBngFBVV95cUxOMkkzYWVaWE5ienk2YVlCT3RpQVVtVXVHd0hFM0JibkctSkNFSVpRUnZUVmN2WmhoaUgybERsWG5sb2FNQXZvQ3pqUVNaRktJeWJyU0lNRUl4Z3ZiV2RibndONU9ueEVTcmpwbGZBLVJZTmZ3NEZXVkhRS2FkSUVOZkk0OVRodFJqak8tMF81R0pSUF9UdmRRb3dCVTc4UQ?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:37:30 GMT",
-          "source": "RushLane"
-        },
-        {
-          "title": "Asia stocks rally as Korean chips surge and oil retreat lifts sentiment - Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUGw4REs1Z2c4TDhVdXotSEhJMUczbFA5dTEtQ1V0enVwamtUbUtFSVNiczJuWXZEQi1LYlFFYzZNZHdHS0xlMUdXelpDZnF5WEI4TVVuNFNfa0Q5aVhkMjdRV1V6eU0yMnFoUjk4bF9Ya1NHRkdfR1p6SjBGRVFLS1lVaXJxRWVUTHNMTkx6UkVNR3lBbkFrRE5peF9tZjVySy1xbzg3RWhpaDhhSmNRWUgteDE1VE1WSThMTGhtOFVOWWZWSVQ0?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 09:16:28 GMT",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Qantas to outsource 850 local jobs with most roles moving to India - BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02RlZqRC1uYWJWaUtMNzIxblRsNFdxdXcxeXJEV05hdHRUb2J6emNjTW9OQ2xORHh0NU5GYTVqWWx4akljcDlJVnhZbDRLSFdocGJJRk5QYlp2TTg?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 01:55:22 GMT",
-          "source": "BBC"
-        },
-        {
-          "title": "Morning Bid: Anthropic IPO - Please try again - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CeC1RN1hvWlBLQ0hHeVpIRS1lOU14N1J6a1pDc1FPRG84VnZ0Zi1fZEo0VUZoVWJyemFNaFQzcmd4djB5TlJNS3JITXBlMWxfYnZ4dDJUS1FhZS1jVjhQMEpReXFuMlZOU3lURE5pcWtoTHlLbk8xWEEtMWNMZ0U?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 05:31:00 GMT",
-          "source": "Reuters"
-        },
-        {
-          "title": "Nvidia loses $192 billion as peers climb 2%; How Jensen Huang's controversy rattled AI chipmaker - Onmanorama",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbU5wSHVhLUlGVEx3XzRIajY1MEZPT2paY2ttaXFTeFJYcjdvRWZZVjBOTVJMNFJPc2ZCajk3XzNQaDdBMnhGMElqNE9HWndCMGpLVGc1SHh1ajVPNTZZNEZLZ3dla3QxX0c2aWZqQmZta25Za0pLcVc4ZmdVUnNwQVVWYzNZYlpkQndvZ2F5aU0zUXhLSEZhd0x1QUpGVWhVTXBPNkwtN1pYS081RUNjdmZwbTItbzVmSEhKRHJ6YjFNRDEzQ2pXRUFkVTM2Y0FqZVlZMjU2ZEQ1OHFzd1ZEd1U0QXE?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 07:59:01 GMT",
-          "source": "Onmanorama"
-        },
-        {
-          "title": "Foreign investors keep faith in 83 stocks despite prolonged India selloff - The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXIyZnN6RzZydkhqQlJMb3JvUzlGZWk4bzNKXzllT2RJRjhTU1Q2a2VDSmNtTm4zRTdENjZHZnIxNzhrRnlvQWMyQ3R6bDhDQVRpbmhzajBiQ2JwbjlxdnFKdVlsNnRVUmo5elF0blFoUWgwY3g0SlZWbXNlRVY1VGp4S05ETzlTZk5TX1J1aXA2eFNYUWg1VGNDUW1uRDBaU0xFN3J5aFJjcGZVd3RERnFDR0FUNTlzZWdFbFRKZ18tVFRWQ193NdIBzgFBVV95cUxOWG1xaGRNc3lPUWI1ZEg2VkJtZ1o5czdLUGVHd1h2bnExU3ptTjJRYmdQNUh2X25NWnZoYnRuZTdwVml3aHhNdi12Snh6YVhiN3lNYUxWZDlfMjdaYzZ2RDF0OFpRSzhuaTN2R0RqY0VKVlcweE56aVBBUV9tLVhJR3lNYkdnZEhiaVprMEVuaXlETmJQUFI0VjBMWm1YTmdYeUFZaGhDR0NEMkNFeFU0aDhuelRraFZtUXdOeXBwa3pTaWxFUHJwM3ViNWZqdw?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 00:51:53 GMT",
-          "source": "The Economic Times"
-        }
-      ]
+      "items": []
     },
     {
       "key": "technology",
       "label": "Technology",
-      "items": [
-        {
-          "title": "Gemini's new feature built my travel itinerary without starting over - How-To Geek",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmR0enBsaHc1dTFHNTJmeF9SblNlWmdWVTFtVFFBMng4N0s1Z1RPRGdTTThIbExSLTdPQko0a3ZkTGVtQXNDcXEzS1FRRGRKdkdndXNTUUcyY3FmRmhKZHFTMmRZRUVzNDJ5SmJGQ0ZrOENfek1EOHhSQVBDZHJQU25yajVSdWRMazMwR2JkYzdfX2FXS3BwTng5Zw?oc=5",
-          "pubDate": "Sun, 08 Nov 2026 20:30:15 GMT",
-          "source": "How-To Geek"
-        },
-        {
-          "title": "Google Chrome CVE-2026-125350: Use-After-Free in XML, Exploit Exists in the Wild — Patch Now - Rescana",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjcxSnAwRTZBVzlRc0s5UWdWLTEzU0dKb0tyYVNwTlB1dVlmUXM3a2RFMHFOYjl0ZC1VSUJUQWVUZnliNG5LOUMzWjhnaUJWSzFPS3BuV1ZBRFRSZy1zaXdvcnBjWFB5WjJUbmZsM2dmTXhFMlg5c2FHeTcxdEl3eVd4WVNQbDY3amlHSVFBN2VnaDRpa1VNNUxPaThJZw?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:55:00 GMT",
-          "source": "Rescana"
-        },
-        {
-          "title": "Samsung Galaxy S27 series' cameras detailed, Pro to get a lower resolution telephoto than previously rumored - GSMArena.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS0Y0N1U0aXRveFlpcW03blJnYS1nLVBBOHZXUzJPOF9aWkpobkZIQ3M2TDVJN3V6b29qNUdIdm9hWjVzeVAwdDg4b2ozemJ4eEVhYXlLNEtnU1RELUhXSWF4bWdWdW1TWS1hSTh2Tk92S1FzX3hyX2FPM2psLVMzX0I5bVFDUGVQTVJqUm5seU0?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 09:16:03 GMT",
-          "source": "GSMArena.com"
-        },
-        {
-          "title": "Canada assesses its space reactor capabilities - American Nuclear Society",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMXpxM1d5bjFNNkpOZERfVHJQa0F4b2RDSnpZX05JWjFPdWZQOUVjbUJVbjNDX3FQbXZGaTdfQ1R3VzdsOUhxQkFGVWpoOE5icWhjdko3T3JPMzI2cWVDNVM0ajZDTUo1VVFfVmJ2ajd0UmxiLXI2QlNnS2ZaMGJpZ0RBdHlVaDR6Rmd4RF9B?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 17:07:54 GMT",
-          "source": "American Nuclear Society"
-        },
-        {
-          "title": "Quordle Hint Today: Tuesday, November 10 Clues And Answers - Yahoo News Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcXliWnRPZjBYeTBtTnJQcUE2TjBIYWpRdnJmYjhJWkxoaTBySENaQ25uMk9MRVpxVDYzbWUxcktkYmxKZHdWMVlFV21ITGM2ZTN4ZmRzVHNXMDFIU29xT0lzZWswQlNJWkR2RFd3U0t2UkxKaXhObVpELW1oYkluSVBn?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 18:00:00 GMT",
-          "source": "Yahoo News Singapore"
-        },
-        {
-          "title": "HARMAN Drops App Launched for Personalised Music Discovery - The Mobile Indian",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd0ZvVkdvcGk2bTRBQmFVYWpUYWY4OExMWks0Ym1aQzVHUWpjczZyWDdYbXJnMDBFRVoweUNmQ3FIbXZTS3RicDFJMkNFb1ZHTElmOUp1Q25yMGl6bVlMam1qY0UyVmR5dDl2RURYOGtRanB2MUw1MXFURXgxV2FMenNqYUk3a2lLZ016MlFpaWN3YjMydWc?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:17:05 GMT",
-          "source": "The Mobile Indian"
-        },
-        {
-          "title": "Xiaomi 18 Pro India launch month leaks along with Xiaomi 18T specs - GSMArena.com news - GSMArena.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRE9wem1fZW93Sk9BT2lEZng1QmhkdFphRjk2QWVWRnlPWW1SczdBRldnaUlDdzdHNmwxQkctNndJVlFjLTNBNERSNExIWnBfZnVKUjlpNlhpeWxDZzJYTzhYWXItNnlVenBLUGtFYmpxLTN6UzVReFhsYnJxSmdaNkNxcElqNzd5c2NPYUM5S0FhSElvYmlia0FHVGFZT014YnJEVlhTUXRmUdIBpgFBVV95cUxPNUdTV2VsWHRDSU9XMGRGd2FqMWNuc3ZpQk53YnNHNERpVmZQMmNZUXdldTlDMjFNanlvNHMyYU5YblRfZjk1R0Z5ZGJldzVGNXdOUU5mN2RpZklianlIRXg5UUUyUlNNQ2gtQmloOWNmeFRITjFlNkZTTGJ1ZUhqZVZQc1ZRQm5GRkVsT3BqclFFYk91Rmw5a1lETi15Um5DbjZHTXVR?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:00:02 GMT",
-          "source": "GSMArena.com"
-        },
-        {
-          "title": "OPPO Reno 17 Series Unboxing Videos Reveal Design Ahead of November 16 China Launch - My Mobile India",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEJjSnJ0OEYxQ3lrS2pIUUVqMFlYb1hpTEtvVHBEejR4ZkNqYl9nX2pJdUlyS2tEQjFkVUVXUG53R1FGZ0tHVEh2dUZaYjFLTnZ6NUpHV2VQNndQcUt1QWh6em9PNzFrT0Z3MlhfeUNQdWFNY0dNdE84QUJNQnRFcC00UGtqMGxGQmlickswMDYwWTJTdmJUVUtHNUlpdFhrTWpid0M2WWpTblF0N1hEM2VBSW0?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 04:26:42 GMT",
-          "source": "My Mobile India"
-        }
-      ]
+      "items": []
     },
     {
       "key": "sports",
       "label": "Sports",
-      "items": [
-        {
-          "title": "India hold on to series lead after washout as New Zealand's winning streak ends - Cricinfo",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUE1KYTZESW0ySW5DQjhRQnpTeWVyTTNvMWp1Z055MndZdm9lOVlyYVQ4QmpLV3VyQ0kxc3l6OU5DSVVkMXlSMFdUdWZneDFsb2wzSTVmX0lvLS1tWmFOVnhMRElmR1pYMF9kRkFtaXFFYzhvc3psOEJEMXlZdm1FTjVmSE0weVFpaS00LUk5a0NYeU9maVpKMDRWSlBXLUNQZmNFbm5tNG5nM3E3NXhkV0hETTVXbzl3cWc?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 06:14:49 GMT",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Aaryavir Sehwag joins Shubman Gill, Mayank Agarwal in elite list with stunning 160 against UAE - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd0tXU3MteG9tUWlVMEt4Qm9uYk1BVFFGTGo1TTZYajRYci1wSG5WVlhwMW5wMElzcXFqYUlPMWRaN1dLQTBKcHdYSzV3U3Z2V1BzQXE0eEtRN0lCN0tBZWcxTFc5aTluajZFYVB4dkhsNm1PdG5ORDlxdFl3Rnp1dUxIbjJ6dHY2LTI3QzJwWjVtMC04Q0VIME1KYnpEaWZ6dWp3aEkyT0JWc1RLcGtjUDlFeEg2S1pVR2NyQnlaYXJ5bjhzaVpQRUluTGZvb3Qtd21idndWQVAySUVQZUZ3QTB0bGhuU3dVeEZfOC1TNV82OF9fQjhDcGlGSTRjc2U5VGJPOE13?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:24:00 GMT",
-          "source": "The Times of India"
-        },
-        {
-          "title": "Mitchell Starc stands by bowlers' 2021 statement on sandpaper scandal - Cricbuzz",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQjFCdFQyaWtyam15amNGOFFKaThlZ3JFZ0JrWDk0VU03cW1zaXpLN0k4LWkzeVJ0RnhyOGtaXzVhSHB1Zk1UeFBOMDhZRzVfcS1FNmNsZnhETkJObjFlb3N3MkIzY3RNZUhQaEl5TnpvMkdvTkFsa3piUXYtUDVIdGdIUkVPY3JlYkxUR0EyMWtNUDVuanFadmJWYmcxcVpQU3AyMURBdw?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 08:38:46 GMT",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "Craig Ervine slams maiden double ton in draw vs Afghanistan - Cricbuzz",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMjdPZ1dPSkhCc3hTUE9JelZmNmhtd2VfcDZ4eDlzbkpjcVJsZVVQVU9OcGEyMVc5YTRPeS1fTWd0dGdCMU1aTTdmMmE1b2lDNC1rcHdPRVByX25TOGlFYUFNeUp6TjRMdXlkcFNBZUE4c1hkRThpQ1VVZ1hoeGhWdklDcWIzTkFmampLa3o3WGlRSFRiVXlOanlxU3pfeUMzQ0toTmpFb18tUEVwSEI1YnFlRXBfcWc?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 13:36:55 GMT",
-          "source": "Cricbuzz"
-        },
-        {
-          "title": "The contenders: who replaces Marnus Labuschagne in the Test squad? - Cricinfo",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFUyV2p3TDllZ3hKOU9aZFBiNEhxaVF2eloxY1FscFNYcUhpVzdBWVdUX0xXNklIOU9YRzdXT19MS2FjMVJMczVoYlp0SmdZVmZnYjAxWGFoQUNDY3BoeW1iaktMdE5DUGU5eDFSS1BoOEhsa1lxdlhaTDVvcmczNUJ6cGxNMWROeGFGTjlMd29TdmVOTG9xbVFDY0tQa3RCNDlidTNSX3Y4UmpUZ0lNQnFLUjM3M0RYQVIzUll4cXR0UjVaRUJGaXdVQmtlWlJ4Y3N6M0pxTTllVVVS0gHuAUFVX3lxTFBudGtyUG1oamJReExlREVPdUpNMFJSRmtudkZWUlJYZ1h1NTdYZjhSeWtiaE50aWhWZjU4QXFjb0FyMm1pTGxGZGNJN29pMURHNWJORHQ2MGxDNUw4SmdUbFFWc0dPelhYQlduc0VoMzJmN3pzRGZlZ0VDNll1R25zZnREY2VEUTlGZC1ZLVFRdEY3X0RZa01VLUYwa0xNa2hSLTZvcFRLQWM3bi1TRHNfb0wxYUNLenpGNVN3Q3FDaXZrd29hTUJzWnl4Sk5PcFFreVJLeEtJSmdGRWZ3R1QzT3JGZENweU5LejRJbXc?oc=5",
-          "pubDate": "Tue, 10 Nov 2026 03:28:50 GMT",
-          "source": "Cricinfo"
-        },
-        {
-          "title": "Kumamoto Masters: Early Test for Christo Popov - BWF World Tour",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXh3UWQ0dTQ3ZWU0OGQxMmptN2Z1V1kyQjRuOUdDdzBFN0NfU0RSRlIyOGFwaUpGMWFHQ0NVOWJLc2dHaDRNQU4wUGE0eDVPQ2s0V25Sb1dRVGdJYmY4TmVSN241RFI2aVZmdERBU1U2NVJYOG1ESUxoYlZDMjNFV2lFRU5iLS15Vm52cWtfdjh4R0dOS0RfbE8tbEh3ay0xd3VRVkgtWmtuQQ?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 14:23:19 GMT",
-          "source": "BWF World Tour"
-        },
-        {
-          "title": "R Praggnanandhaa, Arjun Erigaisi, R Vaishali Face Stern Test At Total Chess World Championship Tour - NDTV Sports",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNWxrN0YxWTk2Z1VWZnVadHBibkJ2eGx6R2NPeTJ3dHVua3pVVjVZYnVPTmp4MUxOMEZOYUd3NTBNNVo5V1RrZ3owWEZNdEZSZkhOMG5INEdTYkF0ejJDZGt6cUphR1M2NnM4Z2oyOWJzaVdVc0hySWxoeVVWRDY3UGJGSkoyaW8tU3V6MGlCVF9jNDg0aXBvVjE1OU9xX1h2LWN4NHNScEZpdFJkUll5WENRUzRJNlJZcjQ4Q1lJOUxoem9UR3UzSVFleEhoUnV3QkF6RDhORzUxbDNaSTZRbzQ3X0xoakk0WHhsejIzdUx5dHhmLVRNOUxCcHNQMkN1?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 15:20:19 GMT",
-          "source": "NDTV Sports"
-        },
-        {
-          "title": "How the WTC is reshaping the second tier of Test cricket - Cricinfo",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjhOUmFHUi1HUVU0X3A4Z2dRYnZtU21laWhQVUNDbkhDRmJCUkhUYUlfb1VUQm1SZW9zcWVMRkphdzVaVTJoSVhienA4QnMtU0IzWm1FZHdUNlViYzdFTkJfNzNoc3ZJT2NKamhEU3UzUGFWMVA5SEhWeUt6UGl3ZUZhR2l3YTBRNDZDMTFka2dJWmtHWFdUUUdyaENnMmtteDE3T2NpRmjSAboBQVVfeXFMT29JT08xeUY5dmVsQ0Vrek5OSWJ1NmtpUE1qb3lNdEdRRFc0ZTIteGFlcmVRSmxMa1hHSGhleVBCSk52UEVnNE9vdFVPQ0ZrT2hxMFNLSlozV2R2SW1ZU3NFUzFVcU42SWFEMUVzdWxHd21hYUVrNHZWT3E1ZV9KR3ZSMHZDR3VLb1d4eUJFdUtJbmNRWHdUbW9HYlB4OXU0NUVtWVBTVFV3emdwVmFGSk5lMmthczVyTlFR?oc=5",
-          "pubDate": "Mon, 09 Nov 2026 15:29:22 GMT",
-          "source": "Cricinfo"
-        }
-      ]
+      "items": []
     }
   ]
 }
